@@ -1,0 +1,25 @@
+{
+  "sender_email": "YOUR_GMAIL@gmail.com",
+  "sender_name": "Mehedi Khettabi",
+  "batch_size": 6,
+  "delay_min": 20,
+  "delay_max": 35,
+  "daily_limit": 144,
+  "recycle_after_days": 14,
+  "low_queue_threshold": 15,
+  "positions": [
+    "Kitchen Steward",
+    "Commis de Cuisine",
+    "Security Officer",
+    "Waiter / Garçon",
+    "Housekeeping Attendant"
+  ],
+  "applicant": {
+    "name": "Mehedi Khettabi",
+    "phone": "+212XXXXXXXXX",
+    "email": "YOUR_GMAIL@gmail.com",
+    "nationality": "Moroccan",
+    "languages": ["French", "Arabic", "English"],
+    "experience": "5+ years in electrical cabling, security, and hospitality services"
+  }
+}

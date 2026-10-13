@@ -1,0 +1,5 @@
+# Hotel Outreach Bot — dependencies
+# Core sending uses Python stdlib (smtplib, email, socket) — no heavy deps needed.
+# These are only required if you extend the bot with HTTP features or scheduling.
+
+requests>=2.31.0

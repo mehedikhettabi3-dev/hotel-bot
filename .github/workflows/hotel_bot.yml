@@ -1,0 +1,43 @@
+name: Hotel Outreach Bot
+
+# Runs automatically every hour, 24/7 — no local PC required.
+on:
+  schedule:
+    - cron: '0 * * * *'   # every hour at minute 0
+  workflow_dispatch:       # allows manual trigger from the Actions tab
+
+jobs:
+  outreach:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Refill / recycle leads
+        run: python hotel_hunter_feeder.py
+
+      - name: Send batch of emails
+        env:
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: python bot.py
+
+      - name: Commit updated lead data & logs
+        run: |
+          git config --local user.email "bot@users.noreply.github.com"
+          git config --local user.name "Hotel Bot"
+          git add data/ logs/
+          git diff --quiet && git diff --staged --quiet || git commit -m "Bot run: update leads & logs [skip ci]"
+          git push
