@@ -72,9 +72,9 @@
     "country": "Canada",
     "city": "Quebec City",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-14T21:28:41.731890",
+    "attempt_count": 1
   },
   {
     "id": 8,
@@ -83,9 +83,9 @@
     "country": "Canada",
     "city": "Toronto",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-14T21:29:14.954452",
+    "attempt_count": 1
   },
   {
     "id": 9,
@@ -94,9 +94,9 @@
     "country": "Canada",
     "city": "Vancouver",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-14T21:29:46.237452",
+    "attempt_count": 1
   },
   {
     "id": 10,
@@ -105,9 +105,9 @@
     "country": "Canada",
     "city": "Vancouver",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-14T21:30:07.524588",
+    "attempt_count": 1
   },
   {
     "id": 11,
@@ -116,9 +116,9 @@
     "country": "Switzerland",
     "city": "St. Moritz",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-14T21:30:39.460826",
+    "attempt_count": 1
   },
   {
     "id": 12,
@@ -127,9 +127,9 @@
     "country": "Switzerland",
     "city": "St. Moritz",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-14T21:31:00.787454",
+    "attempt_count": 1
   },
   {
     "id": 13,
