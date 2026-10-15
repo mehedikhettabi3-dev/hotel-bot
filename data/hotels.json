@@ -336,9 +336,9 @@
     "country": "Qatar",
     "city": "Doha",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-15T16:42:07.494327",
+    "attempt_count": 1
   },
   {
     "id": 32,
@@ -347,9 +347,9 @@
     "country": "Qatar",
     "city": "Doha",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-15T16:42:35.220593",
+    "attempt_count": 1
   },
   {
     "id": 33,
@@ -358,9 +358,9 @@
     "country": "Qatar",
     "city": "Doha",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-15T16:43:05.056129",
+    "attempt_count": 1
   },
   {
     "id": 34,
@@ -369,9 +369,9 @@
     "country": "Qatar",
     "city": "Doha",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-15T16:43:40.900342",
+    "attempt_count": 1
   },
   {
     "id": 35,
@@ -380,9 +380,9 @@
     "country": "Qatar",
     "city": "Doha",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-15T16:44:14.242103",
+    "attempt_count": 1
   },
   {
     "id": 36,
@@ -391,9 +391,9 @@
     "country": "Qatar",
     "city": "Doha",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-15T16:44:45.286553",
+    "attempt_count": 1
   },
   {
     "id": 37,
