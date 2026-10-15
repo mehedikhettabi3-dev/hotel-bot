@@ -468,9 +468,9 @@
     "country": "USA",
     "city": "Avon CO",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-15T23:37:05.242978",
+    "attempt_count": 1
   },
   {
     "id": 44,
@@ -479,9 +479,9 @@
     "country": "USA",
     "city": "Wyoming",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-15T23:37:42.697112",
+    "attempt_count": 1
   },
   {
     "id": 45,
@@ -490,9 +490,9 @@
     "country": "USA",
     "city": "Park City",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-15T23:38:10.468102",
+    "attempt_count": 1
   },
   {
     "id": 46,
@@ -501,9 +501,9 @@
     "country": "USA",
     "city": "Aspen CO",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-15T23:38:33.090025",
+    "attempt_count": 1
   },
   {
     "id": 47,
@@ -512,9 +512,9 @@
     "country": "USA",
     "city": "Aspen CO",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-15T23:38:58.352685",
+    "attempt_count": 1
   },
   {
     "id": 48,
@@ -523,9 +523,9 @@
     "country": "USA",
     "city": "Park City",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-15T23:39:30.029311",
+    "attempt_count": 1
   },
   {
     "id": 49,
