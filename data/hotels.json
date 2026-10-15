@@ -402,9 +402,9 @@
     "country": "Saudi Arabia",
     "city": "Riyadh",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-15T20:14:06.187670",
+    "attempt_count": 1
   },
   {
     "id": 38,
@@ -413,9 +413,9 @@
     "country": "Saudi Arabia",
     "city": "Riyadh",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-15T20:14:31.932819",
+    "attempt_count": 1
   },
   {
     "id": 39,
@@ -424,9 +424,9 @@
     "country": "Saudi Arabia",
     "city": "Riyadh",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-15T20:15:02.277723",
+    "attempt_count": 1
   },
   {
     "id": 40,
@@ -435,9 +435,9 @@
     "country": "Saudi Arabia",
     "city": "Jeddah",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-15T20:15:26.729757",
+    "attempt_count": 1
   },
   {
     "id": 41,
@@ -446,9 +446,9 @@
     "country": "Saudi Arabia",
     "city": "Jeddah",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-15T20:15:56.587486",
+    "attempt_count": 1
   },
   {
     "id": 42,
@@ -457,9 +457,9 @@
     "country": "USA",
     "city": "Park City",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-15T20:16:21.504817",
+    "attempt_count": 1
   },
   {
     "id": 43,
