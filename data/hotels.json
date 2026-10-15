@@ -138,9 +138,9 @@
     "country": "Switzerland",
     "city": "Gstaad",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-15T00:22:27.086980",
+    "attempt_count": 1
   },
   {
     "id": 14,
@@ -149,9 +149,9 @@
     "country": "Switzerland",
     "city": "Interlaken",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-15T00:22:53.162952",
+    "attempt_count": 1
   },
   {
     "id": 15,
@@ -160,9 +160,9 @@
     "country": "Switzerland",
     "city": "Zermatt",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-15T00:23:28.468247",
+    "attempt_count": 1
   },
   {
     "id": 16,
@@ -171,9 +171,9 @@
     "country": "Switzerland",
     "city": "Zermatt",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-15T00:23:51.596415",
+    "attempt_count": 1
   },
   {
     "id": 17,
@@ -182,9 +182,9 @@
     "country": "Switzerland",
     "city": "Lausanne",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-15T00:24:25.934058",
+    "attempt_count": 1
   },
   {
     "id": 18,
@@ -193,9 +193,9 @@
     "country": "Switzerland",
     "city": "Geneva",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-15T00:25:05.222953",
+    "attempt_count": 1
   },
   {
     "id": 19,
