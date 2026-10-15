@@ -204,9 +204,9 @@
     "country": "Switzerland",
     "city": "Geneva",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-15T05:44:00.865049",
+    "attempt_count": 1
   },
   {
     "id": 20,
@@ -215,9 +215,9 @@
     "country": "Switzerland",
     "city": "Zurich",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-15T05:44:31.195046",
+    "attempt_count": 1
   },
   {
     "id": 21,
@@ -226,9 +226,9 @@
     "country": "UAE",
     "city": "Dubai",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-15T05:45:04.354516",
+    "attempt_count": 1
   },
   {
     "id": 22,
@@ -237,9 +237,9 @@
     "country": "UAE",
     "city": "Dubai",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-15T05:45:40.646964",
+    "attempt_count": 1
   },
   {
     "id": 23,
@@ -248,9 +248,9 @@
     "country": "UAE",
     "city": "Dubai",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-15T05:46:09.187149",
+    "attempt_count": 1
   },
   {
     "id": 24,
@@ -259,9 +259,9 @@
     "country": "UAE",
     "city": "Dubai",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-15T05:46:32.137778",
+    "attempt_count": 1
   },
   {
     "id": 25,
