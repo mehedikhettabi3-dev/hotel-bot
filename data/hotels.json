@@ -600,9 +600,9 @@
     "country": "France",
     "city": "Paris",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-16T09:35:56.746461",
+    "attempt_count": 1
   },
   {
     "id": 56,
@@ -611,9 +611,9 @@
     "country": "France",
     "city": "Courchevel",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-16T09:36:20.330138",
+    "attempt_count": 1
   },
   {
     "id": 57,
@@ -622,9 +622,9 @@
     "country": "France",
     "city": "Courchevel",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-16T09:36:45.747501",
+    "attempt_count": 1
   },
   {
     "id": 58,
@@ -633,9 +633,9 @@
     "country": "Switzerland",
     "city": "St. Moritz",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-16T09:37:20.155394",
+    "attempt_count": 1
   },
   {
     "id": 59,
@@ -644,9 +644,9 @@
     "country": "Switzerland",
     "city": "Pontresina",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-16T09:37:54.500549",
+    "attempt_count": 1
   },
   {
     "id": 60,
@@ -655,9 +655,9 @@
     "country": "Switzerland",
     "city": "St. Moritz",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-16T09:38:17.425212",
+    "attempt_count": 1
   },
   {
     "id": 61,
