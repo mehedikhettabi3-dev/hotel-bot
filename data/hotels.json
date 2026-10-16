@@ -721,7 +721,7 @@
     "country": "Austria",
     "city": "Aigen",
     "stars": 5,
-    "status": "pending",
+    "status": "failed_mx",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -732,7 +732,7 @@
     "country": "Austria",
     "city": "Kitzbuhel",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -743,7 +743,7 @@
     "country": "Germany",
     "city": "Baiersbronn",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -754,7 +754,7 @@
     "country": "Germany",
     "city": "Baden-Baden",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -765,7 +765,7 @@
     "country": "Germany",
     "city": "Berlin",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },

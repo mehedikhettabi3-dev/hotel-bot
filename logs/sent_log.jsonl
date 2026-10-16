@@ -64,3 +64,9 @@
 {"timestamp": "2026-10-16T14:43:06.500122", "hotel": "Grand Hotel Zell am See", "email": "careers@grandhotelzas.at", "status": "skipped_no_mx", "error": "DNS/MX check failed"}
 {"timestamp": "2026-10-16T14:43:06.669697", "hotel": "Hotel Kitzhof Kitzbuhel", "email": "hr@kitzhof.com", "country": "Austria", "status": "sent", "subject": "Application for Security Officer - Hotel Kitzhof Kitzbuhel"}
 {"timestamp": "2026-10-16T14:43:31.103262", "hotel": "Schloss Pichlarn Austria", "email": "careers@schloss-pichlarn.at", "status": "skipped_no_mx", "error": "DNS/MX check failed"}
+{"timestamp": "2026-10-16T18:42:55.506282", "hotel": "Schloss Pichlarn Austria", "email": "careers@schloss-pichlarn.at", "status": "skipped_no_mx", "error": "DNS/MX check failed"}
+{"timestamp": "2026-10-16T18:42:55.626441", "hotel": "Grand Tirolia Kitzbuhel", "email": "hr@grandtirolia.at", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-16T18:43:25.503828", "hotel": "Hotel Bareiss Black Forest", "email": "personal@bareiss.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-16T18:43:54.156669", "hotel": "Brenners Park-Hotel Baden-Baden", "email": "careers@brenners.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-16T18:44:29.801307", "hotel": "Adlon Kempinski Berlin", "email": "careers.berlin@kempinski.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-16T18:44:55.472132", "hotel": "Arabella Hotel Zurich", "email": "careers@arabella-zurich.ch", "status": "skipped_no_mx", "error": "DNS/MX check failed"}
