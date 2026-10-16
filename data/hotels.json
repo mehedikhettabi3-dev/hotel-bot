@@ -534,9 +534,9 @@
     "country": "USA",
     "city": "Vail CO",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-16T04:01:14.563427",
+    "attempt_count": 1
   },
   {
     "id": 50,
@@ -545,7 +545,7 @@
     "country": "France",
     "city": "Paris",
     "stars": 5,
-    "status": "pending",
+    "status": "failed_mx",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -556,9 +556,9 @@
     "country": "France",
     "city": "Paris",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-16T04:01:50.940006",
+    "attempt_count": 1
   },
   {
     "id": 52,
@@ -567,9 +567,9 @@
     "country": "France",
     "city": "Paris",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-16T04:02:30.175558",
+    "attempt_count": 1
   },
   {
     "id": 53,
@@ -578,9 +578,9 @@
     "country": "France",
     "city": "Paris",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-16T04:02:52.545637",
+    "attempt_count": 1
   },
   {
     "id": 54,
@@ -589,9 +589,9 @@
     "country": "France",
     "city": "Paris",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-16T04:03:29.640182",
+    "attempt_count": 1
   },
   {
     "id": 55,
