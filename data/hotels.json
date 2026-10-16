@@ -776,7 +776,7 @@
     "country": "Switzerland",
     "city": "Zurich",
     "stars": 5,
-    "status": "pending",
+    "status": "failed_mx",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -787,7 +787,7 @@
     "country": "Switzerland",
     "city": "St. Moritz",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -798,7 +798,7 @@
     "country": "Switzerland",
     "city": "Montreux",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -809,7 +809,7 @@
     "country": "Switzerland",
     "city": "Nyon",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -820,7 +820,7 @@
     "country": "Italy",
     "city": "Milan",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -831,7 +831,7 @@
     "country": "Italy",
     "city": "Milan",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },

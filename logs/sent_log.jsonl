@@ -70,3 +70,9 @@
 {"timestamp": "2026-10-16T18:43:54.156669", "hotel": "Brenners Park-Hotel Baden-Baden", "email": "careers@brenners.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-16T18:44:29.801307", "hotel": "Adlon Kempinski Berlin", "email": "careers.berlin@kempinski.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-16T18:44:55.472132", "hotel": "Arabella Hotel Zurich", "email": "careers@arabella-zurich.ch", "status": "skipped_no_mx", "error": "DNS/MX check failed"}
+{"timestamp": "2026-10-16T21:58:17.520434", "hotel": "Arabella Hotel Zurich", "email": "careers@arabella-zurich.ch", "status": "skipped_no_mx", "error": "DNS/MX check failed"}
+{"timestamp": "2026-10-16T21:58:17.653739", "hotel": "Kempinski Grand Hotel des Bains", "email": "careers.stmoritz@kempinski.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-16T21:58:52.190031", "hotel": "Fairmont Le Montreux Palace", "email": "montreux.careers@fairmont.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-16T21:59:21.688206", "hotel": "Hotel Beau-Rivage Nyon", "email": "hr@beau-rivage.ch", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-16T21:59:55.271370", "hotel": "Excelsior Hotel Gallia Milan", "email": "careers.milan@luxurycollection.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-16T22:00:16.742759", "hotel": "Four Seasons Hotel Milan", "email": "jobs.milan@fourseasons.com", "status": "error", "error": "Connection unexpectedly closed"}
