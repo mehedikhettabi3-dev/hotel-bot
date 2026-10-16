@@ -666,9 +666,9 @@
     "country": "Switzerland",
     "city": "Gstaad",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-16T14:41:32.588651",
+    "attempt_count": 1
   },
   {
     "id": 62,
@@ -677,9 +677,9 @@
     "country": "Switzerland",
     "city": "Gstaad",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-16T14:42:09.873527",
+    "attempt_count": 1
   },
   {
     "id": 63,
@@ -688,9 +688,9 @@
     "country": "Switzerland",
     "city": "Villars",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-16T14:42:40.813064",
+    "attempt_count": 1
   },
   {
     "id": 64,
@@ -699,7 +699,7 @@
     "country": "Austria",
     "city": "Zell am See",
     "stars": 5,
-    "status": "pending",
+    "status": "failed_mx",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -710,9 +710,9 @@
     "country": "Austria",
     "city": "Kitzbuhel",
     "stars": 5,
-    "status": "pending",
-    "last_sent": null,
-    "attempt_count": 0
+    "status": "sent",
+    "last_sent": "2026-10-16T14:43:06.669697",
+    "attempt_count": 1
   },
   {
     "id": 66,
