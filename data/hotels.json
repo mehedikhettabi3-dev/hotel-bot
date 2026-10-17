@@ -1106,7 +1106,7 @@
     "country": "Canada",
     "city": "Montreal",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1117,7 +1117,7 @@
     "country": "Canada",
     "city": "Montreal",
     "stars": 4,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1128,7 +1128,7 @@
     "country": "Canada",
     "city": "Jasper",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1139,7 +1139,7 @@
     "country": "Canada",
     "city": "Jasper",
     "stars": 4,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1150,7 +1150,7 @@
     "country": "Canada",
     "city": "Tofino BC",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },

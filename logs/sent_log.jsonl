@@ -100,3 +100,9 @@
 {"timestamp": "2026-10-17T14:08:57.556527", "hotel": "Accor Sofitel Montreal", "email": "careers.montreal@sofitel.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-17T14:09:20.318548", "hotel": "Fairmont Queen Elizabeth Montreal", "email": "montreal.careers@fairmont.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-17T14:09:41.724458", "hotel": "Marriott Chateau Champlain Montreal", "email": "careers.montreal@marriott.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-17T17:48:55.149179", "hotel": "Hotel Le Germain Montreal", "email": "rh@germainhotels.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-17T17:49:21.682588", "hotel": "Hotel Nelligan Montreal", "email": "hr@hotelnelligan.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-17T17:49:49.154628", "hotel": "Fairmont Jasper Park Lodge", "email": "jasper.careers@fairmont.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-17T17:50:14.557653", "hotel": "Pyramid Lake Resort Jasper", "email": "jobs@sunwapta.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-17T17:50:35.068816", "hotel": "Wickaninnish Inn Tofino", "email": "hr@wickinn.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-17T17:50:57.487484", "hotel": "Black Rock Oceanfront Resort Ucluelet", "email": "hr@blackrockresort.ca", "status": "skipped_no_mx", "error": "DNS/MX check failed"}
