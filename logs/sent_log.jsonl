@@ -112,3 +112,9 @@
 {"timestamp": "2026-10-17T20:24:30.969231", "hotel": "Ritz-Carlton Montreal", "email": "careers.montreal@ritzcarlton.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-17T20:24:58.384177", "hotel": "W Montreal Hotel", "email": "careers.montreal@whotels.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-17T20:25:33.734238", "hotel": "Accor Novotel Ottawa City Centre", "email": "careers.ottawa@accor.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-17T22:58:43.791476", "hotel": "Fairmont Chateau Laurier Ottawa", "email": "ottawa.careers@fairmont.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-17T22:59:16.273854", "hotel": "Delta Hotels Ottawa City Centre", "email": "careers.ottawa@deltahotels.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-17T22:59:50.850085", "hotel": "Shangri-La Hotel Toronto", "email": "careers.toronto@shangri-la.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-17T23:00:16.264921", "hotel": "Four Seasons Hotel Toronto", "email": "jobs.toronto@fourseasons.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-17T23:00:37.769850", "hotel": "Ritz-Carlton Toronto", "email": "careers.toronto@ritzcarlton.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-17T23:01:13.165601", "hotel": "Marriott Eaton Centre Toronto", "email": "careers.toronto@marriott.com", "status": "error", "error": "Connection unexpectedly closed"}
