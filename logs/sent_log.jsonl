@@ -94,3 +94,9 @@
 {"timestamp": "2026-10-17T10:26:58.312241", "hotel": "Sutton Place Hotel Revelstoke", "email": "hr@suttonplace.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-17T10:27:30.621938", "hotel": "Basecamp Hotel Banff", "email": "jobs@basecampresorts.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-17T10:27:50.935195", "hotel": "Buffalo Mountain Lodge Banff", "email": "hr@crmr.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-17T14:07:15.992542", "hotel": "Emerald Lake Lodge Field BC", "email": "jobs@crmr.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-17T14:07:51.252472", "hotel": "Post Hotel Lake Louise", "email": "careers@posthotel.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-17T14:08:23.152126", "hotel": "Moraine Lake Lodge", "email": "hr@morainelake.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-17T14:08:57.556527", "hotel": "Accor Sofitel Montreal", "email": "careers.montreal@sofitel.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-17T14:09:20.318548", "hotel": "Fairmont Queen Elizabeth Montreal", "email": "montreal.careers@fairmont.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-17T14:09:41.724458", "hotel": "Marriott Chateau Champlain Montreal", "email": "careers.montreal@marriott.com", "status": "error", "error": "Connection unexpectedly closed"}
