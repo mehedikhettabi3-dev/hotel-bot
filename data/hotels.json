@@ -974,7 +974,7 @@
     "country": "Japan",
     "city": "Tokyo",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -985,7 +985,7 @@
     "country": "Japan",
     "city": "Tokyo",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -996,7 +996,7 @@
     "country": "Canada",
     "city": "Vancouver",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1007,7 +1007,7 @@
     "country": "Canada",
     "city": "Revelstoke",
     "stars": 4,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1018,7 +1018,7 @@
     "country": "Canada",
     "city": "Banff",
     "stars": 4,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1029,7 +1029,7 @@
     "country": "Canada",
     "city": "Banff",
     "stars": 4,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },

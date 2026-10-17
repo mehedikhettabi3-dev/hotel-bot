@@ -88,3 +88,9 @@
 {"timestamp": "2026-10-17T05:27:15.783399", "hotel": "Four Seasons Resort Seychelles", "email": "jobs.seychelles@fourseasons.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-17T05:27:49.444772", "hotel": "Raffles Seychelles", "email": "careers.seychelles@raffles.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-17T05:28:12.914841", "hotel": "Four Seasons Hotel Tokyo", "email": "jobs.tokyo@fourseasons.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-17T10:25:32.831462", "hotel": "Aman Tokyo", "email": "careers.tokyo@aman.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-17T10:25:55.320301", "hotel": "Park Hyatt Tokyo", "email": "careers.tokyo@hyatt.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-17T10:26:22.850355", "hotel": "Fairmont Pacific Rim Vancouver", "email": "pacificrim.careers@fairmont.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-17T10:26:58.312241", "hotel": "Sutton Place Hotel Revelstoke", "email": "hr@suttonplace.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-17T10:27:30.621938", "hotel": "Basecamp Hotel Banff", "email": "jobs@basecampresorts.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-17T10:27:50.935195", "hotel": "Buffalo Mountain Lodge Banff", "email": "hr@crmr.com", "status": "error", "error": "Connection unexpectedly closed"}
