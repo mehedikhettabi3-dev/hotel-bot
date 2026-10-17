@@ -82,3 +82,9 @@
 {"timestamp": "2026-10-17T00:20:55.253785", "hotel": "Hotel Splendido Portofino", "email": "careers@hotelsplendido.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-17T00:21:18.805225", "hotel": "One&Only Reethi Rah Maldives", "email": "careers.rr@oneandonlyresorts.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-17T00:21:52.384440", "hotel": "Soneva Fushi Maldives", "email": "hr@soneva.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-17T05:25:45.266710", "hotel": "Four Seasons Resort Maldives at Landaa Giraavaru", "email": "jobs.maldives@fourseasons.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-17T05:26:12.749793", "hotel": "Cheval Blanc Randheli Maldives", "email": "recrutement.randheli@chevalblanc.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-17T05:26:45.228604", "hotel": "Banyan Tree Seychelles", "email": "careers@banyantree.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-17T05:27:15.783399", "hotel": "Four Seasons Resort Seychelles", "email": "jobs.seychelles@fourseasons.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-17T05:27:49.444772", "hotel": "Raffles Seychelles", "email": "careers.seychelles@raffles.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-17T05:28:12.914841", "hotel": "Four Seasons Hotel Tokyo", "email": "jobs.tokyo@fourseasons.com", "status": "error", "error": "Connection unexpectedly closed"}

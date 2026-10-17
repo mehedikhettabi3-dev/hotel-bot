@@ -908,7 +908,7 @@
     "country": "Maldives",
     "city": "Baa Atoll",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -919,7 +919,7 @@
     "country": "Maldives",
     "city": "Noonu Atoll",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -930,7 +930,7 @@
     "country": "Seychelles",
     "city": "Mahe",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -941,7 +941,7 @@
     "country": "Seychelles",
     "city": "Mahe",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -952,7 +952,7 @@
     "country": "Seychelles",
     "city": "Praslin",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -963,7 +963,7 @@
     "country": "Japan",
     "city": "Tokyo",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
