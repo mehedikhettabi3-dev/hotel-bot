@@ -106,3 +106,9 @@
 {"timestamp": "2026-10-17T17:50:14.557653", "hotel": "Pyramid Lake Resort Jasper", "email": "jobs@sunwapta.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-17T17:50:35.068816", "hotel": "Wickaninnish Inn Tofino", "email": "hr@wickinn.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-17T17:50:57.487484", "hotel": "Black Rock Oceanfront Resort Ucluelet", "email": "hr@blackrockresort.ca", "status": "skipped_no_mx", "error": "DNS/MX check failed"}
+{"timestamp": "2026-10-17T20:23:28.956718", "hotel": "Black Rock Oceanfront Resort Ucluelet", "email": "hr@blackrockresort.ca", "status": "skipped_no_mx", "error": "DNS/MX check failed"}
+{"timestamp": "2026-10-17T20:23:28.978668", "hotel": "Long Beach Lodge Resort Tofino", "email": "info@longbeachlodgeresort.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-17T20:24:03.504757", "hotel": "Clayoquot Wilderness Resort", "email": "careers@clayoquot.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-17T20:24:30.969231", "hotel": "Ritz-Carlton Montreal", "email": "careers.montreal@ritzcarlton.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-17T20:24:58.384177", "hotel": "W Montreal Hotel", "email": "careers.montreal@whotels.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-17T20:25:33.734238", "hotel": "Accor Novotel Ottawa City Centre", "email": "careers.ottawa@accor.com", "status": "error", "error": "Connection unexpectedly closed"}

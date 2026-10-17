@@ -1161,7 +1161,7 @@
     "country": "Canada",
     "city": "Ucluelet BC",
     "stars": 4,
-    "status": "pending",
+    "status": "failed_mx",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1172,7 +1172,7 @@
     "country": "Canada",
     "city": "Tofino BC",
     "stars": 4,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1183,7 +1183,7 @@
     "country": "Canada",
     "city": "Tofino BC",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1194,7 +1194,7 @@
     "country": "Canada",
     "city": "Montreal",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1205,7 +1205,7 @@
     "country": "Canada",
     "city": "Montreal",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1216,7 +1216,7 @@
     "country": "Canada",
     "city": "Ottawa",
     "stars": 4,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
