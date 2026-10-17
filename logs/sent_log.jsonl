@@ -76,3 +76,9 @@
 {"timestamp": "2026-10-16T21:59:21.688206", "hotel": "Hotel Beau-Rivage Nyon", "email": "hr@beau-rivage.ch", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-16T21:59:55.271370", "hotel": "Excelsior Hotel Gallia Milan", "email": "careers.milan@luxurycollection.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-16T22:00:16.742759", "hotel": "Four Seasons Hotel Milan", "email": "jobs.milan@fourseasons.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-17T00:19:25.303413", "hotel": "Hotel Cipriani Venice", "email": "careers@hotelcipriani.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-17T00:19:52.868811", "hotel": "Aman Venice", "email": "careers@aman.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-17T00:20:20.410980", "hotel": "Il San Pietro di Positano", "email": "hr@ilsanpietro.it", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-17T00:20:55.253785", "hotel": "Hotel Splendido Portofino", "email": "careers@hotelsplendido.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-17T00:21:18.805225", "hotel": "One&Only Reethi Rah Maldives", "email": "careers.rr@oneandonlyresorts.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-17T00:21:52.384440", "hotel": "Soneva Fushi Maldives", "email": "hr@soneva.com", "status": "error", "error": "Connection unexpectedly closed"}

@@ -842,7 +842,7 @@
     "country": "Italy",
     "city": "Venice",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -853,7 +853,7 @@
     "country": "Italy",
     "city": "Venice",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -864,7 +864,7 @@
     "country": "Italy",
     "city": "Positano",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -875,7 +875,7 @@
     "country": "Italy",
     "city": "Portofino",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -886,7 +886,7 @@
     "country": "Maldives",
     "city": "North Male Atoll",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -897,7 +897,7 @@
     "country": "Maldives",
     "city": "Baa Atoll",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
