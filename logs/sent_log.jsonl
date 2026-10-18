@@ -136,3 +136,9 @@
 {"timestamp": "2026-10-18T10:45:42.647407", "hotel": "Hyatt Regency Vancouver", "email": "careers.vancouver@hyatt.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-18T10:46:18.494308", "hotel": "Rosewood Hotel Georgia Vancouver", "email": "hr@hwgeorgia.com", "status": "skipped_no_mx", "error": "DNS/MX check failed"}
 {"timestamp": "2026-10-18T10:46:18.526940", "hotel": "Loden Hotel Vancouver", "email": "hr@theloden.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-18T14:24:19.329342", "hotel": "Wedgewood Hotel Vancouver", "email": "hr@wedgewoodhotel.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-18T14:24:47.358802", "hotel": "Hotel Le Germain Maple Leaf Square Toronto", "email": "rh.toronto@germainhotels.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-18T14:25:20.892088", "hotel": "Omni King Edward Hotel Toronto", "email": "careers.toronto@omnihotels.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-18T14:25:56.502300", "hotel": "Intercontinental Toronto Centre", "email": "careers.toronto@ihg.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-18T14:26:22.997741", "hotel": "Sofitel Montreal Golden Mile", "email": "recrutement.montreal@sofitel.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-18T14:26:46.443169", "hotel": "Chateau Vieux-Montreal", "email": "hr@chateauvieuxmontreal.com", "status": "error", "error": "Connection unexpectedly closed"}
