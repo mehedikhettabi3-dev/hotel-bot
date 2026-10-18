@@ -148,3 +148,9 @@
 {"timestamp": "2026-10-18T17:57:14.824898", "hotel": "The Venetian Resort Las Vegas", "email": "jobs@venetianlasvegas.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-18T17:57:45.245090", "hotel": "Four Seasons Hotel Las Vegas", "email": "jobs.lasvegas@fourseasons.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-18T17:58:07.651971", "hotel": "Ritz-Carlton New Orleans", "email": "careers.neworleans@ritzcarlton.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-18T20:27:03.426166", "hotel": "Four Seasons Hotel New York", "email": "jobs.newyork@fourseasons.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-18T20:27:31.889088", "hotel": "The Plaza Hotel New York", "email": "careers@theplazany.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-18T20:27:57.295099", "hotel": "Mandarin Oriental New York", "email": "monyc-jobs@mohg.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-18T20:28:18.705121", "hotel": "The St. Regis New York", "email": "careers.newyork@stregis.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-18T20:28:47.067880", "hotel": "Rosewood Castiglion del Bosco Italy", "email": "careers.italy@rosewoodhotels.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-18T20:29:21.485126", "hotel": "Borgo Egnazia Puglia", "email": "hr@borgoegnazia.com", "status": "error", "error": "Connection unexpectedly closed"}

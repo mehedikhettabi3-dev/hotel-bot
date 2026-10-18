@@ -1612,7 +1612,7 @@
     "country": "USA",
     "city": "New York",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1623,7 +1623,7 @@
     "country": "USA",
     "city": "New York",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1634,7 +1634,7 @@
     "country": "USA",
     "city": "New York",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1645,7 +1645,7 @@
     "country": "USA",
     "city": "New York",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1656,7 +1656,7 @@
     "country": "Italy",
     "city": "Montalcino",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1667,7 +1667,7 @@
     "country": "Italy",
     "city": "Fasano",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
