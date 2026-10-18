@@ -124,3 +124,9 @@
 {"timestamp": "2026-10-18T00:54:16.323546", "hotel": "Hotel Arts Calgary", "email": "hr@hotelarts.ca", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-18T00:54:47.963397", "hotel": "Le Germain Hotel Calgary", "email": "rh.calgary@germainhotels.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-18T00:55:13.338056", "hotel": "Halcyon Hot Springs Resort BC", "email": "hr@halcyon-resort.com", "status": "skipped_no_mx", "error": "DNS/MX check failed"}
+{"timestamp": "2026-10-18T05:37:18.343474", "hotel": "Halcyon Hot Springs Resort BC", "email": "hr@halcyon-resort.com", "status": "skipped_no_mx", "error": "DNS/MX check failed"}
+{"timestamp": "2026-10-18T05:37:18.394826", "hotel": "Nita Lake Lodge Whistler", "email": "careers@nitalake.com", "status": "skipped_no_mx", "error": "DNS/MX check failed"}
+{"timestamp": "2026-10-18T05:37:28.409455", "hotel": "Westin Resort Whistler", "email": "careers.whistler@westin.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-18T05:37:57.241030", "hotel": "Pan Pacific Whistler", "email": "careers.whistler@panpacific.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-18T05:38:32.973227", "hotel": "Sundial Boutique Hotel Whistler", "email": "hr@sundialhotel.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-18T05:38:54.493356", "hotel": "Fairmont Tremblant Quebec", "email": "tremblant.careers@fairmont.com", "status": "error", "error": "Connection unexpectedly closed"}
