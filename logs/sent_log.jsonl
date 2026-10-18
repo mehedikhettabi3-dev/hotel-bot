@@ -154,3 +154,9 @@
 {"timestamp": "2026-10-18T20:28:18.705121", "hotel": "The St. Regis New York", "email": "careers.newyork@stregis.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-18T20:28:47.067880", "hotel": "Rosewood Castiglion del Bosco Italy", "email": "careers.italy@rosewoodhotels.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-18T20:29:21.485126", "hotel": "Borgo Egnazia Puglia", "email": "hr@borgoegnazia.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-18T22:54:50.734403", "hotel": "Grand Hotel Tremezzo Lake Como", "email": "careers@grandhoteltremezzo.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-18T22:55:12.237520", "hotel": "Villa d'Este Lake Como", "email": "hr@villadeste.it", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-18T22:55:36.397521", "hotel": "Grand Hotel Miramare Santa Margherita Ligure", "email": "hr@grandhotelmiramare.it", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-18T22:56:00.029226", "hotel": "Mandarin Oriental Geneva", "email": "mogen-jobs@mohg.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-18T22:56:27.507994", "hotel": "Beau-Rivage Geneva", "email": "hr@beau-rivage.ch", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-18T22:56:50.065781", "hotel": "Hotel des Bergues Geneva Curio Collection", "email": "careers.geneva@hilton.com", "status": "error", "error": "Connection unexpectedly closed"}

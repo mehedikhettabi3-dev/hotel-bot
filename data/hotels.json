@@ -1678,7 +1678,7 @@
     "country": "Italy",
     "city": "Lake Como",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1689,7 +1689,7 @@
     "country": "Italy",
     "city": "Lake Como",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1700,7 +1700,7 @@
     "country": "Italy",
     "city": "Santa Margherita",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1711,7 +1711,7 @@
     "country": "Switzerland",
     "city": "Geneva",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1722,7 +1722,7 @@
     "country": "Switzerland",
     "city": "Geneva",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1733,7 +1733,7 @@
     "country": "Switzerland",
     "city": "Geneva",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
