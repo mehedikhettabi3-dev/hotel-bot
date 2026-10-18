@@ -1546,7 +1546,7 @@
     "country": "USA",
     "city": "Las Vegas",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1557,7 +1557,7 @@
     "country": "USA",
     "city": "Las Vegas",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1568,7 +1568,7 @@
     "country": "USA",
     "city": "Las Vegas",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1579,7 +1579,7 @@
     "country": "USA",
     "city": "Las Vegas",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1590,7 +1590,7 @@
     "country": "USA",
     "city": "Las Vegas",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1601,7 +1601,7 @@
     "country": "USA",
     "city": "New Orleans",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
