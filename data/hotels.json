@@ -1293,7 +1293,7 @@
     "country": "Canada",
     "city": "Toronto",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1304,7 +1304,7 @@
     "country": "Canada",
     "city": "Edmonton",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1315,7 +1315,7 @@
     "country": "Canada",
     "city": "Calgary",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1326,7 +1326,7 @@
     "country": "Canada",
     "city": "Calgary",
     "stars": 4,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1337,7 +1337,7 @@
     "country": "Canada",
     "city": "Calgary",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },

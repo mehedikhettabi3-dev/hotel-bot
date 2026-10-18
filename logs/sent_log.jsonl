@@ -118,3 +118,9 @@
 {"timestamp": "2026-10-17T23:00:16.264921", "hotel": "Four Seasons Hotel Toronto", "email": "jobs.toronto@fourseasons.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-17T23:00:37.769850", "hotel": "Ritz-Carlton Toronto", "email": "careers.toronto@ritzcarlton.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-17T23:01:13.165601", "hotel": "Marriott Eaton Centre Toronto", "email": "careers.toronto@marriott.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-18T00:53:05.128003", "hotel": "Park Hyatt Toronto", "email": "careers.toronto@hyatt.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-18T00:53:32.583250", "hotel": "Accor Fairmont Hotel Macdonald Edmonton", "email": "macdonald.careers@fairmont.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-18T00:53:55.961647", "hotel": "Hyatt Regency Calgary", "email": "careers.calgary@hyatt.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-18T00:54:16.323546", "hotel": "Hotel Arts Calgary", "email": "hr@hotelarts.ca", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-18T00:54:47.963397", "hotel": "Le Germain Hotel Calgary", "email": "rh.calgary@germainhotels.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-18T00:55:13.338056", "hotel": "Halcyon Hot Springs Resort BC", "email": "hr@halcyon-resort.com", "status": "skipped_no_mx", "error": "DNS/MX check failed"}
