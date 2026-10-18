@@ -130,3 +130,9 @@
 {"timestamp": "2026-10-18T05:37:57.241030", "hotel": "Pan Pacific Whistler", "email": "careers.whistler@panpacific.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-18T05:38:32.973227", "hotel": "Sundial Boutique Hotel Whistler", "email": "hr@sundialhotel.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-18T05:38:54.493356", "hotel": "Fairmont Tremblant Quebec", "email": "tremblant.careers@fairmont.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-18T10:44:13.569178", "hotel": "Hotel Quintessence Mont-Tremblant", "email": "hr@hotelquintessence.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-18T10:44:46.366415", "hotel": "Westin Trillium House Blue Mountain", "email": "careers.bluemountain@westin.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-18T10:45:18.994238", "hotel": "Accor Novotel Vancouver Airport", "email": "careers.yvr@accor.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-18T10:45:42.647407", "hotel": "Hyatt Regency Vancouver", "email": "careers.vancouver@hyatt.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-18T10:46:18.494308", "hotel": "Rosewood Hotel Georgia Vancouver", "email": "hr@hwgeorgia.com", "status": "skipped_no_mx", "error": "DNS/MX check failed"}
+{"timestamp": "2026-10-18T10:46:18.526940", "hotel": "Loden Hotel Vancouver", "email": "hr@theloden.com", "status": "error", "error": "Connection unexpectedly closed"}

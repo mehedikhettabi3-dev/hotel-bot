@@ -1414,7 +1414,7 @@
     "country": "Canada",
     "city": "Mont-Tremblant",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1425,7 +1425,7 @@
     "country": "Canada",
     "city": "Blue Mountains ON",
     "stars": 4,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1436,7 +1436,7 @@
     "country": "Canada",
     "city": "Richmond BC",
     "stars": 4,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1447,7 +1447,7 @@
     "country": "Canada",
     "city": "Vancouver",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1458,7 +1458,7 @@
     "country": "Canada",
     "city": "Vancouver",
     "stars": 5,
-    "status": "pending",
+    "status": "failed_mx",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1469,7 +1469,7 @@
     "country": "Canada",
     "city": "Vancouver",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
