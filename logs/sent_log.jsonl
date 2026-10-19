@@ -172,3 +172,9 @@
 {"timestamp": "2026-10-19T06:04:38.747772", "hotel": "Mandarin Oriental Barcelona", "email": "mobcn-jobs@mohg.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-19T06:05:13.125686", "hotel": "Four Seasons Hotel Madrid", "email": "jobs.madrid@fourseasons.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-19T06:05:45.556701", "hotel": "Mandarin Oriental Ritz Madrid", "email": "moritz-jobs@mohg.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-19T14:30:39.260088", "hotel": "Grand Hotel Heiligendamm Germany", "email": "careers@grandhotel-heiligendamm.de", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-19T14:31:02.146058", "hotel": "Schloss Hotel Fleesensee Germany", "email": "hr@schlosshotel-fleesensee.de", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-19T14:31:26.118330", "hotel": "Fairmont Hotel Vier Jahreszeiten Hamburg", "email": "hamburg.careers@fairmont.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-19T14:31:46.805080", "hotel": "Hotel Bayerischer Hof Munich", "email": "personal@bayerischerhof.de", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-19T14:32:21.526618", "hotel": "Hotel Sacher Vienna", "email": "personal@sacher.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-19T14:32:50.609952", "hotel": "Imperial Vienna Luxury Collection", "email": "careers.vienna@luxurycollection.com", "status": "error", "error": "Connection unexpectedly closed"}

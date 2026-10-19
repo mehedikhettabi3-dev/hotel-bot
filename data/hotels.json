@@ -1876,7 +1876,7 @@
     "country": "Germany",
     "city": "Bad Doberan",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1887,7 +1887,7 @@
     "country": "Germany",
     "city": "Fleesensee",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1898,7 +1898,7 @@
     "country": "Germany",
     "city": "Hamburg",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1909,7 +1909,7 @@
     "country": "Germany",
     "city": "Munich",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1920,7 +1920,7 @@
     "country": "Austria",
     "city": "Vienna",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1931,7 +1931,7 @@
     "country": "Austria",
     "city": "Vienna",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
