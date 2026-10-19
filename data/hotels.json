@@ -1810,7 +1810,7 @@
     "country": "Netherlands",
     "city": "Amsterdam",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1821,7 +1821,7 @@
     "country": "Netherlands",
     "city": "Amsterdam",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1832,7 +1832,7 @@
     "country": "Spain",
     "city": "Barcelona",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1843,7 +1843,7 @@
     "country": "Spain",
     "city": "Barcelona",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1854,7 +1854,7 @@
     "country": "Spain",
     "city": "Madrid",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1865,7 +1865,7 @@
     "country": "Spain",
     "city": "Madrid",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },

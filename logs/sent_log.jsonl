@@ -166,3 +166,9 @@
 {"timestamp": "2026-10-19T01:00:50.337330", "hotel": "Four Seasons Hotel Gresham Palace Budapest", "email": "jobs.budapest@fourseasons.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-19T01:01:17.857142", "hotel": "Aria Hotel Budapest", "email": "hr@ariahotelbudapest.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-19T01:01:47.493337", "hotel": "Rosewood Amsterdam", "email": "careers.amsterdam@rosewoodhotels.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-19T06:03:08.415653", "hotel": "Hotel V Amsterdam", "email": "jobs@hotelv.nl", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-19T06:03:42.914724", "hotel": "Sofitel Legend The Grand Amsterdam", "email": "careers.amsterdam@sofitel.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-19T06:04:16.363320", "hotel": "Hotel Arts Barcelona Ritz-Carlton", "email": "careers.barcelona@ritzcarlton.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-19T06:04:38.747772", "hotel": "Mandarin Oriental Barcelona", "email": "mobcn-jobs@mohg.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-19T06:05:13.125686", "hotel": "Four Seasons Hotel Madrid", "email": "jobs.madrid@fourseasons.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-19T06:05:45.556701", "hotel": "Mandarin Oriental Ritz Madrid", "email": "moritz-jobs@mohg.com", "status": "error", "error": "Connection unexpectedly closed"}
