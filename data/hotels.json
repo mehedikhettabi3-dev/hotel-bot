@@ -1942,7 +1942,7 @@
     "country": "Austria",
     "city": "Vienna",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1953,7 +1953,7 @@
     "country": "Austria",
     "city": "Vienna",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1964,7 +1964,7 @@
     "country": "Montenegro",
     "city": "Sveti Stefan",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1975,7 +1975,7 @@
     "country": "Montenegro",
     "city": "Tivat",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1986,7 +1986,7 @@
     "country": "Maldives",
     "city": "South Male Atoll",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -1997,7 +1997,7 @@
     "country": "Maldives",
     "city": "South Male Atoll",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },

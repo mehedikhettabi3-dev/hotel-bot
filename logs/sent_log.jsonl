@@ -178,3 +178,9 @@
 {"timestamp": "2026-10-19T14:31:46.805080", "hotel": "Hotel Bayerischer Hof Munich", "email": "personal@bayerischerhof.de", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-19T14:32:21.526618", "hotel": "Hotel Sacher Vienna", "email": "personal@sacher.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-19T14:32:50.609952", "hotel": "Imperial Vienna Luxury Collection", "email": "careers.vienna@luxurycollection.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-19T20:29:05.478242", "hotel": "Park Hyatt Vienna", "email": "careers.vienna@hyatt.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-19T20:29:36.922613", "hotel": "Ritz-Carlton Vienna", "email": "careers.vienna@ritzcarlton.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-19T20:30:07.280861", "hotel": "Aman Sveti Stefan Montenegro", "email": "careers.montenegro@aman.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-19T20:30:29.747774", "hotel": "Regent Porto Montenegro", "email": "hr@regentportomontenegro.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-19T20:30:50.136023", "hotel": "Jumeirah Vittaveli Maldives", "email": "vittaveli.careers@jumeirah.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-19T20:31:17.568026", "hotel": "Waldorf Astoria Maldives Ithaafushi", "email": "careers.maldives@waldorfastoria.com", "status": "error", "error": "Connection unexpectedly closed"}
