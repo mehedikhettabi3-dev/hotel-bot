@@ -160,3 +160,9 @@
 {"timestamp": "2026-10-18T22:56:00.029226", "hotel": "Mandarin Oriental Geneva", "email": "mogen-jobs@mohg.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-18T22:56:27.507994", "hotel": "Beau-Rivage Geneva", "email": "hr@beau-rivage.ch", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-18T22:56:50.065781", "hotel": "Hotel des Bergues Geneva Curio Collection", "email": "careers.geneva@hilton.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-19T00:59:25.471040", "hotel": "InterContinental Geneva", "email": "careers.geneva@ihg.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-19T00:59:53.072387", "hotel": "Fairmont Grand Hotel Geneva", "email": "geneva.careers@fairmont.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-19T01:00:17.723654", "hotel": "Kempinski Hotel Corvinus Budapest", "email": "careers.budapest@kempinski.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-19T01:00:50.337330", "hotel": "Four Seasons Hotel Gresham Palace Budapest", "email": "jobs.budapest@fourseasons.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-19T01:01:17.857142", "hotel": "Aria Hotel Budapest", "email": "hr@ariahotelbudapest.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-19T01:01:47.493337", "hotel": "Rosewood Amsterdam", "email": "careers.amsterdam@rosewoodhotels.com", "status": "error", "error": "Connection unexpectedly closed"}
