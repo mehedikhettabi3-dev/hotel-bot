@@ -2008,7 +2008,7 @@
     "country": "Seychelles",
     "city": "Felicite Island",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -2019,7 +2019,7 @@
     "country": "Seychelles",
     "city": "North Island",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -2030,7 +2030,7 @@
     "country": "Tanzania",
     "city": "Serengeti",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -2041,7 +2041,7 @@
     "country": "Tanzania",
     "city": "Ngorongoro",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -2052,7 +2052,7 @@
     "country": "Kenya",
     "city": "Masai Mara",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -2063,7 +2063,7 @@
     "country": "Kenya",
     "city": "Nairobi",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
