@@ -2338,7 +2338,7 @@
     "country": "USA",
     "city": "Bluffton SC",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -2349,7 +2349,7 @@
     "country": "USA",
     "city": "Sea Island GA",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -2360,7 +2360,7 @@
     "country": "USA",
     "city": "Greensboro GA",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -2371,7 +2371,7 @@
     "country": "USA",
     "city": "Scottsdale AZ",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -2382,7 +2382,7 @@
     "country": "USA",
     "city": "Scottsdale AZ",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -2393,7 +2393,7 @@
     "country": "USA",
     "city": "Sedona AZ",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },

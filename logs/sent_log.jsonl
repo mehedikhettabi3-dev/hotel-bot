@@ -214,3 +214,9 @@
 {"timestamp": "2026-10-20T20:22:53.682129", "hotel": "Halekulani Hotel Honolulu", "email": "hr@halekulani.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-20T20:23:26.206820", "hotel": "Blackberry Farm Tennessee", "email": "careers@blackberryfarm.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-20T20:23:53.784978", "hotel": "Primland Resort Virginia", "email": "hr@primland.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-20T23:42:31.781937", "hotel": "Montage Palmetto Bluff", "email": "careers.palmettobluff@montagehotels.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-20T23:42:58.356376", "hotel": "Cloister at Sea Island Georgia", "email": "hr@seaisland.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-20T23:43:22.026342", "hotel": "Ritz-Carlton Reynolds Lake Oconee", "email": "careers.lakeoconee@ritzcarlton.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-20T23:43:57.514477", "hotel": "Fairmont Scottsdale Princess", "email": "scottsdale.careers@fairmont.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-20T23:44:25.928989", "hotel": "Four Seasons Resort Scottsdale", "email": "jobs.scottsdale@fourseasons.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-20T23:44:57.383555", "hotel": "Enchantment Resort Sedona", "email": "hr@enchantmentresort.com", "status": "error", "error": "Connection unexpectedly closed"}
