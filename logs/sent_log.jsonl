@@ -196,3 +196,9 @@
 {"timestamp": "2026-10-20T05:48:35.188793", "hotel": "Aman Summer Palace Beijing", "email": "careers.beijing@aman.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-20T05:49:02.564122", "hotel": "Four Seasons Hotel Hong Kong", "email": "jobs.hongkong@fourseasons.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-20T05:49:26.965245", "hotel": "The Peninsula Hong Kong", "email": "careers@peninsula.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-20T11:14:38.049764", "hotel": "Mandarin Oriental Hong Kong", "email": "mohkg-jobs@mohg.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-20T11:15:13.750486", "hotel": "Four Seasons Hotel Singapore", "email": "jobs.singapore@fourseasons.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-20T11:15:37.360161", "hotel": "Mandarin Oriental Singapore", "email": "mosin-jobs@mohg.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-20T11:15:58.875183", "hotel": "Raffles Hotel Singapore", "email": "careers@raffles.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-20T11:16:20.372255", "hotel": "Aman Amanjiwo Indonesia", "email": "careers.indonesia@aman.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-20T11:16:53.932655", "hotel": "Four Seasons Resort Bali at Sayan", "email": "jobs.bali@fourseasons.com", "status": "error", "error": "Connection unexpectedly closed"}

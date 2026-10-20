@@ -2140,7 +2140,7 @@
     "country": "Hong Kong",
     "city": "Hong Kong",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -2151,7 +2151,7 @@
     "country": "Singapore",
     "city": "Singapore",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -2162,7 +2162,7 @@
     "country": "Singapore",
     "city": "Singapore",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -2173,7 +2173,7 @@
     "country": "Singapore",
     "city": "Singapore",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -2184,7 +2184,7 @@
     "country": "Indonesia",
     "city": "Borobudur",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -2195,7 +2195,7 @@
     "country": "Indonesia",
     "city": "Bali",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
