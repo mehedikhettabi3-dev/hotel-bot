@@ -2206,7 +2206,7 @@
     "country": "USA",
     "city": "Napa Valley",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -2217,7 +2217,7 @@
     "country": "USA",
     "city": "Napa Valley",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -2228,7 +2228,7 @@
     "country": "USA",
     "city": "Big Sur CA",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -2239,7 +2239,7 @@
     "country": "USA",
     "city": "Big Sur CA",
     "stars": 5,
-    "status": "pending",
+    "status": "failed_mx",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -2250,7 +2250,7 @@
     "country": "USA",
     "city": "Pebble Beach CA",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -2261,7 +2261,7 @@
     "country": "USA",
     "city": "Lanai Hawaii",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },

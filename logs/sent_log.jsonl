@@ -202,3 +202,9 @@
 {"timestamp": "2026-10-20T11:15:58.875183", "hotel": "Raffles Hotel Singapore", "email": "careers@raffles.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-20T11:16:20.372255", "hotel": "Aman Amanjiwo Indonesia", "email": "careers.indonesia@aman.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-20T11:16:53.932655", "hotel": "Four Seasons Resort Bali at Sayan", "email": "jobs.bali@fourseasons.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-20T16:39:04.846165", "hotel": "Auberge du Soleil Napa Valley", "email": "careers@aubergeresorts.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-20T16:39:31.462274", "hotel": "Meadowood Napa Valley", "email": "hr@meadowood.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-20T16:39:53.820829", "hotel": "Post Ranch Inn Big Sur", "email": "careers@postranchinn.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-20T16:40:26.647527", "hotel": "Ventana Big Sur", "email": "hr@ventanabigsuyr.com", "status": "skipped_no_mx", "error": "DNS/MX check failed"}
+{"timestamp": "2026-10-20T16:40:26.694347", "hotel": "The Lodge at Pebble Beach", "email": "careers@pebblebeach.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-20T16:40:48.346631", "hotel": "Four Seasons Resort Lanai", "email": "jobs.lanai@fourseasons.com", "status": "error", "error": "Connection unexpectedly closed"}
