@@ -208,3 +208,9 @@
 {"timestamp": "2026-10-20T16:40:26.647527", "hotel": "Ventana Big Sur", "email": "hr@ventanabigsuyr.com", "status": "skipped_no_mx", "error": "DNS/MX check failed"}
 {"timestamp": "2026-10-20T16:40:26.694347", "hotel": "The Lodge at Pebble Beach", "email": "careers@pebblebeach.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-20T16:40:48.346631", "hotel": "Four Seasons Resort Lanai", "email": "jobs.lanai@fourseasons.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-20T20:21:31.824326", "hotel": "Sensei Lanai A Four Seasons Resort", "email": "careers@sensei.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-20T20:22:04.444462", "hotel": "Grand Wailea Maui", "email": "careers@grandwailea.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-20T20:22:29.075491", "hotel": "Four Seasons Resort Maui", "email": "jobs.maui@fourseasons.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-20T20:22:53.682129", "hotel": "Halekulani Hotel Honolulu", "email": "hr@halekulani.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-20T20:23:26.206820", "hotel": "Blackberry Farm Tennessee", "email": "careers@blackberryfarm.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-20T20:23:53.784978", "hotel": "Primland Resort Virginia", "email": "hr@primland.com", "status": "error", "error": "Connection unexpectedly closed"}
