@@ -2536,7 +2536,7 @@
     "country": "Canada",
     "city": "Tofino BC",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -2547,7 +2547,7 @@
     "country": "Canada",
     "city": "Fogo Island NL",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -2558,7 +2558,7 @@
     "country": "Canada",
     "city": "Sonora Island BC",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -2569,7 +2569,7 @@
     "country": "Canada",
     "city": "Quadra Island BC",
     "stars": 4,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -2580,7 +2580,7 @@
     "country": "Canada",
     "city": "Princess Royal BC",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -2591,7 +2591,7 @@
     "country": "Canada",
     "city": "Rivers Inlet BC",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
