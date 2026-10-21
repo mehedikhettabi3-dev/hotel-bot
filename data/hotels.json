@@ -2470,7 +2470,7 @@
     "country": "USA",
     "city": "Philipsburg MT",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -2481,7 +2481,7 @@
     "country": "USA",
     "city": "Darby MT",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -2492,7 +2492,7 @@
     "country": "USA",
     "city": "Lenox MA",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -2503,7 +2503,7 @@
     "country": "USA",
     "city": "Lenox MA",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -2514,7 +2514,7 @@
     "country": "USA",
     "city": "Washington VA",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -2525,7 +2525,7 @@
     "country": "USA",
     "city": "Pittsboro NC",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
