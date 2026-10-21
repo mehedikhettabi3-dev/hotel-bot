@@ -238,3 +238,9 @@
 {"timestamp": "2026-10-21T15:02:53.859481", "hotel": "April Point Lodge Quadra Island", "email": "hr@aprilpoint.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-21T15:03:26.450236", "hotel": "King Pacific Lodge Princess Royal Island", "email": "info@kingpacificlodge.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-21T15:03:51.918349", "hotel": "Nimmo Bay Wilderness Resort", "email": "info@nimmobay.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-21T19:59:10.792305", "hotel": "Trout Point Lodge Nova Scotia", "email": "hr@troutpoint.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-21T19:59:46.414493", "hotel": "White Point Beach Resort Nova Scotia", "email": "jobs@whitepoint.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-21T20:00:11.908340", "hotel": "Kingsbrae Arms Relais Chateaux", "email": "hr@kingsbraearms.com", "status": "skipped_no_mx", "error": "DNS/MX check failed"}
+{"timestamp": "2026-10-21T20:00:11.959151", "hotel": "Hastings House Country Estate", "email": "hr@hastingshouse.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-21T20:00:41.530527", "hotel": "Domaine des Hauts de Loire", "email": "hr@domainehautsloire.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-21T20:01:05.414447", "hotel": "Chateau de Bagnols Lyon", "email": "careers@chateaudebagnols.com", "status": "error", "error": "Connection unexpectedly closed"}

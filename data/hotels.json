@@ -2602,7 +2602,7 @@
     "country": "Canada",
     "city": "Kemptville NS",
     "stars": 4,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -2613,7 +2613,7 @@
     "country": "Canada",
     "city": "White Point NS",
     "stars": 4,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -2624,7 +2624,7 @@
     "country": "Canada",
     "city": "St Andrews NB",
     "stars": 5,
-    "status": "pending",
+    "status": "failed_mx",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -2635,7 +2635,7 @@
     "country": "Canada",
     "city": "Salt Spring Island BC",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -2646,7 +2646,7 @@
     "country": "France",
     "city": "Loire Valley",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -2657,7 +2657,7 @@
     "country": "France",
     "city": "Beaujolais",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
