@@ -220,3 +220,9 @@
 {"timestamp": "2026-10-20T23:43:57.514477", "hotel": "Fairmont Scottsdale Princess", "email": "scottsdale.careers@fairmont.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-20T23:44:25.928989", "hotel": "Four Seasons Resort Scottsdale", "email": "jobs.scottsdale@fourseasons.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-20T23:44:57.383555", "hotel": "Enchantment Resort Sedona", "email": "hr@enchantmentresort.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-21T04:09:21.773239", "hotel": "Miraval Arizona Resort", "email": "careers@miravalresorts.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-21T04:09:49.772660", "hotel": "Amangiri Utah", "email": "careers.utah@aman.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-21T04:10:11.389493", "hotel": "Dunton Hot Springs Colorado", "email": "hr@duntonhotsprings.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-21T04:10:44.005519", "hotel": "Dunton River Camp", "email": "info@duntonhotsprings.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-21T04:11:13.536441", "hotel": "Ritz-Carlton Dove Mountain Tucson", "email": "careers.dovemountain@ritzcarlton.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-21T04:11:36.179687", "hotel": "Resort at Paws Up Montana", "email": "hr@pawsup.com", "status": "error", "error": "Connection unexpectedly closed"}

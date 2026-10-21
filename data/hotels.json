@@ -2404,7 +2404,7 @@
     "country": "USA",
     "city": "Tucson AZ",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -2415,7 +2415,7 @@
     "country": "USA",
     "city": "Canyon Point UT",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -2426,7 +2426,7 @@
     "country": "USA",
     "city": "Dolores CO",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -2437,7 +2437,7 @@
     "country": "USA",
     "city": "Dolores CO",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -2448,7 +2448,7 @@
     "country": "USA",
     "city": "Marana AZ",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -2459,7 +2459,7 @@
     "country": "USA",
     "city": "Greenough MT",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
