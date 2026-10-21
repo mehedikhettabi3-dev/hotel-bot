@@ -244,3 +244,9 @@
 {"timestamp": "2026-10-21T20:00:11.959151", "hotel": "Hastings House Country Estate", "email": "hr@hastingshouse.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-21T20:00:41.530527", "hotel": "Domaine des Hauts de Loire", "email": "hr@domainehautsloire.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-21T20:01:05.414447", "hotel": "Chateau de Bagnols Lyon", "email": "careers@chateaudebagnols.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-21T23:12:16.035706", "hotel": "Villa La Coste Provence", "email": "hr@villalacoste.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-21T23:12:46.607072", "hotel": "Le Mas de Pierre Saint-Paul-de-Vence", "email": "rh@lemasdepierre.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-21T23:13:19.267196", "hotel": "Hotel du Cap-Eden-Roc Antibes", "email": "rh@oetkercollection.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-21T23:13:40.032417", "hotel": "Grand-Hotel du Cap-Ferrat", "email": "careers.capferrat@fourseasons.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-21T23:14:09.414354", "hotel": "Villa Ephrussi de Rothschild", "email": "hr@villa-ephrussi.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-21T23:14:31.965505", "hotel": "Chateau Saint-Martin & Spa", "email": "rh@chateau-st-martin.com", "status": "error", "error": "Connection unexpectedly closed"}

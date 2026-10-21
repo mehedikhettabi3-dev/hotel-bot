@@ -2668,7 +2668,7 @@
     "country": "France",
     "city": "Provence",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -2679,7 +2679,7 @@
     "country": "France",
     "city": "Saint-Paul-de-Vence",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -2690,7 +2690,7 @@
     "country": "France",
     "city": "Antibes",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -2701,7 +2701,7 @@
     "country": "France",
     "city": "Cap-Ferrat",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -2712,7 +2712,7 @@
     "country": "France",
     "city": "Cap-Ferrat",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -2723,7 +2723,7 @@
     "country": "France",
     "city": "Vence",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
