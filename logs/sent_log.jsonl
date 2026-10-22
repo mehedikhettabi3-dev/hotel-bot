@@ -250,3 +250,9 @@
 {"timestamp": "2026-10-21T23:13:40.032417", "hotel": "Grand-Hotel du Cap-Ferrat", "email": "careers.capferrat@fourseasons.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-21T23:14:09.414354", "hotel": "Villa Ephrussi de Rothschild", "email": "hr@villa-ephrussi.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-21T23:14:31.965505", "hotel": "Chateau Saint-Martin & Spa", "email": "rh@chateau-st-martin.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-22T04:09:13.231241", "hotel": "Terre Blanche Hotel Tourrettes", "email": "rh@terre-blanche.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-22T04:09:37.685805", "hotel": "La Bastide de Gordes", "email": "hr@bastide-de-gordes.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-22T04:10:01.134437", "hotel": "Six Senses Zighy Bay Oman", "email": "careers.zighy@sixsenses.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-22T04:10:23.487872", "hotel": "The Chedi Muscat", "email": "careers.muscat@ghmhotels.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-22T04:10:43.833283", "hotel": "Alila Jabal Akhdar Oman", "email": "careers@alilahotels.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-22T04:11:08.182867", "hotel": "Jumeirah Al Naseem Dubai", "email": "alnaseem.careers@jumeirah.com", "status": "error", "error": "Connection unexpectedly closed"}

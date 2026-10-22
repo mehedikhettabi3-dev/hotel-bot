@@ -2734,7 +2734,7 @@
     "country": "France",
     "city": "Tourrettes",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -2745,7 +2745,7 @@
     "country": "France",
     "city": "Gordes",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -2756,7 +2756,7 @@
     "country": "Oman",
     "city": "Musandam",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -2767,7 +2767,7 @@
     "country": "Oman",
     "city": "Muscat",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -2778,7 +2778,7 @@
     "country": "Oman",
     "city": "Jabal Akhdar",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
@@ -2789,7 +2789,7 @@
     "country": "UAE",
     "city": "Dubai",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": null,
     "attempt_count": 0
   },
