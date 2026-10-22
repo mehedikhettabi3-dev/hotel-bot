@@ -262,3 +262,4 @@
 {"timestamp": "2026-10-22T09:57:45.337742", "hotel": "Bulgari Resort Dubai", "email": "hr@bulgarihotels.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-22T09:58:10.756554", "hotel": "Atlantis The Royal Dubai", "email": "careers@atlantistheroyal.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-22T09:58:31.259274", "hotel": "Caesars Palace Bluewaters Dubai", "email": "careers@caesarspalace.ae", "status": "skipped_no_mx", "error": "DNS/MX check failed"}
+{"timestamp": "2026-10-22T15:01:47.868397", "hotel": "Caesars Palace Bluewaters Dubai", "email": "careers@caesarspalace.ae", "status": "skipped_no_mx", "error": "DNS/MX check failed"}
