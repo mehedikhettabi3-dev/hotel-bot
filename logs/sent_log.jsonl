@@ -256,3 +256,9 @@
 {"timestamp": "2026-10-22T04:10:23.487872", "hotel": "The Chedi Muscat", "email": "careers.muscat@ghmhotels.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-22T04:10:43.833283", "hotel": "Alila Jabal Akhdar Oman", "email": "careers@alilahotels.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-22T04:11:08.182867", "hotel": "Jumeirah Al Naseem Dubai", "email": "alnaseem.careers@jumeirah.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-22T09:56:26.430005", "hotel": "Jumeirah Al Qasr Dubai", "email": "alqasr.careers@jumeirah.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-22T09:56:54.011606", "hotel": "Address Downtown Dubai", "email": "careers@addresshotels.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-22T09:57:22.871474", "hotel": "FIVE Palm Jumeirah Dubai", "email": "hr@fivehotelsandresorts.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-22T09:57:45.337742", "hotel": "Bulgari Resort Dubai", "email": "hr@bulgarihotels.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-22T09:58:10.756554", "hotel": "Atlantis The Royal Dubai", "email": "careers@atlantistheroyal.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-22T09:58:31.259274", "hotel": "Caesars Palace Bluewaters Dubai", "email": "careers@caesarspalace.ae", "status": "skipped_no_mx", "error": "DNS/MX check failed"}
