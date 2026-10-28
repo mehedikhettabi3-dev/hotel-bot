@@ -6,7 +6,7 @@
     "country": "Canada",
     "city": "Banff",
     "stars": 5,
-    "status": "sent",
+    "status": "error",
     "last_sent": "2026-10-14T18:14:01.632114",
     "attempt_count": 1
   },
@@ -17,7 +17,7 @@
     "country": "Canada",
     "city": "Banff",
     "stars": 5,
-    "status": "sent",
+    "status": "error",
     "last_sent": "2026-10-14T18:14:27.864196",
     "attempt_count": 1
   },
@@ -28,7 +28,7 @@
     "country": "Canada",
     "city": "Lake Louise",
     "stars": 5,
-    "status": "sent",
+    "status": "error",
     "last_sent": "2026-10-14T18:14:55.744744",
     "attempt_count": 1
   },
@@ -39,7 +39,7 @@
     "country": "Canada",
     "city": "Banff",
     "stars": 4,
-    "status": "sent",
+    "status": "error",
     "last_sent": "2026-10-14T18:15:25.080746",
     "attempt_count": 1
   },
@@ -50,7 +50,7 @@
     "country": "Canada",
     "city": "Whistler",
     "stars": 5,
-    "status": "sent",
+    "status": "error",
     "last_sent": "2026-10-14T18:15:59.712631",
     "attempt_count": 1
   },
@@ -61,7 +61,7 @@
     "country": "Canada",
     "city": "Whistler",
     "stars": 5,
-    "status": "sent",
+    "status": "error",
     "last_sent": "2026-10-14T18:16:28.016616",
     "attempt_count": 1
   },

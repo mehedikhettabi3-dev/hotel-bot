@@ -294,3 +294,9 @@
 {"timestamp": "2026-10-27T23:42:47.632751", "hotel": "Caesars Palace Bluewaters Dubai", "email": "careers@caesarspalace.ae", "status": "skipped_no_mx", "error": "DNS/MX check failed"}
 {"timestamp": "2026-10-28T05:01:17.974390", "hotel": "Caesars Palace Bluewaters Dubai", "email": "careers@caesarspalace.ae", "status": "skipped_no_mx", "error": "DNS/MX check failed"}
 {"timestamp": "2026-10-28T12:29:23.269374", "hotel": "Caesars Palace Bluewaters Dubai", "email": "careers@caesarspalace.ae", "status": "skipped_no_mx", "error": "DNS/MX check failed"}
+{"timestamp": "2026-10-28T18:43:47.308334", "hotel": "Fairmont Banff Springs", "email": "careers@fairmont.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-28T18:44:07.941596", "hotel": "Rimrock Resort Hotel", "email": "hr@rimrockresort.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-28T18:44:41.556322", "hotel": "Fairmont Chateau Lake Louise", "email": "lakelouise.careers@fairmont.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-28T18:45:09.059822", "hotel": "Banff Lodging Co", "email": "jobs@banfflodging.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-28T18:45:29.661563", "hotel": "Fairmont Whistler", "email": "whistler.careers@fairmont.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-28T18:45:50.204802", "hotel": "Four Seasons Resort Whistler", "email": "careers@fourseasons.com", "status": "error", "error": "Connection unexpectedly closed"}
