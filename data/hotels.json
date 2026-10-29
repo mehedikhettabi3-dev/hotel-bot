@@ -204,7 +204,7 @@
     "country": "Switzerland",
     "city": "Geneva",
     "stars": 5,
-    "status": "sent",
+    "status": "error",
     "last_sent": "2026-10-15T05:44:00.865049",
     "attempt_count": 1
   },
@@ -215,7 +215,7 @@
     "country": "Switzerland",
     "city": "Zurich",
     "stars": 5,
-    "status": "sent",
+    "status": "error",
     "last_sent": "2026-10-15T05:44:31.195046",
     "attempt_count": 1
   },
@@ -226,7 +226,7 @@
     "country": "UAE",
     "city": "Dubai",
     "stars": 5,
-    "status": "sent",
+    "status": "error",
     "last_sent": "2026-10-15T05:45:04.354516",
     "attempt_count": 1
   },
@@ -237,7 +237,7 @@
     "country": "UAE",
     "city": "Dubai",
     "stars": 5,
-    "status": "sent",
+    "status": "error",
     "last_sent": "2026-10-15T05:45:40.646964",
     "attempt_count": 1
   },
@@ -248,7 +248,7 @@
     "country": "UAE",
     "city": "Dubai",
     "stars": 5,
-    "status": "sent",
+    "status": "error",
     "last_sent": "2026-10-15T05:46:09.187149",
     "attempt_count": 1
   },
@@ -259,7 +259,7 @@
     "country": "UAE",
     "city": "Dubai",
     "stars": 5,
-    "status": "sent",
+    "status": "error",
     "last_sent": "2026-10-15T05:46:32.137778",
     "attempt_count": 1
   },
@@ -270,7 +270,7 @@
     "country": "UAE",
     "city": "Dubai",
     "stars": 5,
-    "status": "sent",
+    "status": "pending",
     "last_sent": "2026-10-15T11:11:14.129218",
     "attempt_count": 1
   },
@@ -281,7 +281,7 @@
     "country": "UAE",
     "city": "Dubai",
     "stars": 5,
-    "status": "sent",
+    "status": "pending",
     "last_sent": "2026-10-15T11:11:43.260957",
     "attempt_count": 1
   },
@@ -292,7 +292,7 @@
     "country": "UAE",
     "city": "Dubai",
     "stars": 5,
-    "status": "sent",
+    "status": "pending",
     "last_sent": "2026-10-15T11:12:10.757857",
     "attempt_count": 1
   },
@@ -303,7 +303,7 @@
     "country": "UAE",
     "city": "Dubai",
     "stars": 5,
-    "status": "sent",
+    "status": "pending",
     "last_sent": "2026-10-15T11:12:33.779095",
     "attempt_count": 1
   },
@@ -314,7 +314,7 @@
     "country": "UAE",
     "city": "Dubai",
     "stars": 5,
-    "status": "sent",
+    "status": "pending",
     "last_sent": "2026-10-15T11:12:57.763691",
     "attempt_count": 1
   },
@@ -325,7 +325,7 @@
     "country": "UAE",
     "city": "Dubai",
     "stars": 5,
-    "status": "sent",
+    "status": "pending",
     "last_sent": "2026-10-15T11:13:18.848110",
     "attempt_count": 1
   },
