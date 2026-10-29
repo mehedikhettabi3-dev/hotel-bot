@@ -318,3 +318,9 @@
 {"timestamp": "2026-10-29T12:41:53.146491", "hotel": "Jumeirah Beach Hotel", "email": "jbh.careers@jumeirah.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-29T12:42:15.706415", "hotel": "Atlantis The Palm Dubai", "email": "careers@atlantisthepalm.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-29T12:42:47.334818", "hotel": "Four Seasons Resort Dubai", "email": "jobs.dubai@fourseasons.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-29T18:53:16.174690", "hotel": "Ritz-Carlton Dubai", "email": "careers@ritzcarlton.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-29T18:53:40.687798", "hotel": "Armani Hotel Dubai", "email": "hr@armanihotels.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-29T18:54:15.436219", "hotel": "One&Only The Palm Dubai", "email": "careers@oneandonlyresorts.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-29T18:54:46.849667", "hotel": "Waldorf Astoria Dubai Palm Jumeirah", "email": "careers@waldorfastoria.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-29T18:55:14.251568", "hotel": "Mandarin Oriental Jumeira Dubai", "email": "mojum-jobs@mohg.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-29T18:55:38.672241", "hotel": "St. Regis Dubai The Palm", "email": "careers@stregis.com", "status": "error", "error": "Connection unexpectedly closed"}
