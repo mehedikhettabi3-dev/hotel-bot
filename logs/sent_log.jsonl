@@ -306,3 +306,9 @@
 {"timestamp": "2026-10-28T23:04:38.780240", "hotel": "Opus Hotel Vancouver", "email": "hr@opushotel.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-28T23:05:13.344185", "hotel": "Carlton Hotel St. Moritz", "email": "careers@carlton-stmoritz.ch", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-28T23:05:37.507669", "hotel": "Kulm Hotel St. Moritz", "email": "hr@kulm.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-29T05:14:04.354454", "hotel": "Alpina Gstaad", "email": "careers@thealpinagstaad.ch", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-29T05:14:29.865128", "hotel": "Victoria-Jungfrau Grand Hotel", "email": "hr@victoria-jungfrau.ch", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-29T05:14:57.311173", "hotel": "Grand Hotel Zermatterhof", "email": "careers@zermatterhof.ch", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-29T05:15:31.172396", "hotel": "Mont Cervin Palace", "email": "hr@montcervinpalace.ch", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-29T05:16:00.634818", "hotel": "Beau-Rivage Palace Lausanne", "email": "emploi@brp.ch", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-29T05:16:31.270104", "hotel": "Hotel President Wilson Geneva", "email": "hr@hotelpresidentwilson.com", "status": "error", "error": "Connection unexpectedly closed"}
