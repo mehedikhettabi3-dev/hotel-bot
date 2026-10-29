@@ -324,3 +324,9 @@
 {"timestamp": "2026-10-29T18:54:46.849667", "hotel": "Waldorf Astoria Dubai Palm Jumeirah", "email": "careers@waldorfastoria.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-29T18:55:14.251568", "hotel": "Mandarin Oriental Jumeira Dubai", "email": "mojum-jobs@mohg.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-29T18:55:38.672241", "hotel": "St. Regis Dubai The Palm", "email": "careers@stregis.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-29T23:11:15.326250", "hotel": "Four Seasons Hotel Doha", "email": "jobs.doha@fourseasons.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-29T23:11:37.942966", "hotel": "Ritz-Carlton Doha", "email": "careers.doha@ritzcarlton.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-29T23:12:05.561184", "hotel": "Mandarin Oriental Doha", "email": "modoha-jobs@mohg.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-29T23:12:37.200631", "hotel": "St. Regis Doha", "email": "careers.doha@stregis.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-29T23:13:09.734210", "hotel": "InterContinental Doha The City", "email": "careers@ihg.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-29T23:13:36.263647", "hotel": "Raffles Doha", "email": "careers@raffles.com", "status": "error", "error": "Connection unexpectedly closed"}
