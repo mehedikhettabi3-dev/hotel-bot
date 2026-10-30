@@ -330,3 +330,9 @@
 {"timestamp": "2026-10-29T23:12:37.200631", "hotel": "St. Regis Doha", "email": "careers.doha@stregis.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-29T23:13:09.734210", "hotel": "InterContinental Doha The City", "email": "careers@ihg.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-29T23:13:36.263647", "hotel": "Raffles Doha", "email": "careers@raffles.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-30T05:13:28.691424", "hotel": "Ritz-Carlton Riyadh", "email": "careers.riyadh@ritzcarlton.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-30T05:13:58.297210", "hotel": "Four Seasons Riyadh", "email": "jobs.riyadh@fourseasons.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-30T05:14:22.824007", "hotel": "Mandarin Oriental Riyadh", "email": "moruh-jobs@mohg.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-30T05:14:57.371499", "hotel": "Park Hyatt Jeddah", "email": "careers@hyatt.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-30T05:15:25.938796", "hotel": "Four Seasons Jeddah", "email": "jobs.jeddah@fourseasons.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-30T05:15:58.499193", "hotel": "Stein Eriksen Lodge", "email": "hr@steinlodge.com", "status": "error", "error": "Connection unexpectedly closed"}
