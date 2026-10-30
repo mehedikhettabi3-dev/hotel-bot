@@ -336,3 +336,9 @@
 {"timestamp": "2026-10-30T05:14:57.371499", "hotel": "Park Hyatt Jeddah", "email": "careers@hyatt.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-30T05:15:25.938796", "hotel": "Four Seasons Jeddah", "email": "jobs.jeddah@fourseasons.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-30T05:15:58.499193", "hotel": "Stein Eriksen Lodge", "email": "hr@steinlodge.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-30T12:31:56.956114", "hotel": "Ritz-Carlton Bachelor Gulch", "email": "careers.bachelor@ritzcarlton.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-30T12:32:18.496783", "hotel": "Four Seasons Jackson Hole", "email": "jobs.jacksonhole@fourseasons.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-30T12:32:40.884078", "hotel": "Waldorf Astoria Park City", "email": "careers.parkcity@waldorfastoria.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-30T12:33:02.299855", "hotel": "St. Regis Aspen", "email": "careers.aspen@stregis.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-30T12:33:26.708932", "hotel": "The Little Nell Aspen", "email": "hr@thelittlenell.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-30T12:33:48.112923", "hotel": "Montage Deer Valley", "email": "careers@montagehotels.com", "status": "error", "error": "Connection unexpectedly closed"}
