@@ -348,3 +348,9 @@
 {"timestamp": "2026-10-30T18:31:30.263704", "hotel": "The Ritz Paris", "email": "recrutement@ritzparis.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-30T18:31:50.950270", "hotel": "Four Seasons Hotel George V Paris", "email": "jobs.paris@fourseasons.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-30T18:32:25.484540", "hotel": "Park Hyatt Paris Vendome", "email": "careers.paris@hyatt.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-30T22:52:55.367794", "hotel": "Cheval Blanc Courchevel", "email": "recrutement@chevalblanc.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-30T22:53:19.821050", "hotel": "Les Airelles Courchevel", "email": "hr@airelles.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-30T22:53:54.284661", "hotel": "Badrutt's Palace Hotel St. Moritz", "email": "hr@badruttspalace.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-30T22:54:29.648109", "hotel": "Grand Hotel Kronenhof Pontresina", "email": "careers@kronenhof.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-30T22:54:56.197136", "hotel": "Suvretta House St. Moritz", "email": "jobs@suvrettahouse.ch", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-30T22:55:24.793673", "hotel": "Palace Hotel Gstaad", "email": "hr@palace.ch", "status": "error", "error": "Connection unexpectedly closed"}
