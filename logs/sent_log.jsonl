@@ -342,3 +342,9 @@
 {"timestamp": "2026-10-30T12:33:02.299855", "hotel": "St. Regis Aspen", "email": "careers.aspen@stregis.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-30T12:33:26.708932", "hotel": "The Little Nell Aspen", "email": "hr@thelittlenell.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-30T12:33:48.112923", "hotel": "Montage Deer Valley", "email": "careers@montagehotels.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-30T18:30:07.359715", "hotel": "Four Seasons Resort Vail", "email": "jobs.vail@fourseasons.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-30T18:30:29.010041", "hotel": "Le Bristol Paris", "email": "recrutement@lebristolparis.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-30T18:31:03.623745", "hotel": "Mandarin Oriental Paris", "email": "moparis-jobs@mohg.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-30T18:31:30.263704", "hotel": "The Ritz Paris", "email": "recrutement@ritzparis.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-30T18:31:50.950270", "hotel": "Four Seasons Hotel George V Paris", "email": "jobs.paris@fourseasons.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-30T18:32:25.484540", "hotel": "Park Hyatt Paris Vendome", "email": "careers.paris@hyatt.com", "status": "error", "error": "Connection unexpectedly closed"}

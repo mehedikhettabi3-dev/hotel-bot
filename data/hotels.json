@@ -534,7 +534,7 @@
     "country": "USA",
     "city": "Vail CO",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": "2026-10-16T04:01:14.563427",
     "attempt_count": 1
   },
@@ -556,7 +556,7 @@
     "country": "France",
     "city": "Paris",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": "2026-10-16T04:01:50.940006",
     "attempt_count": 1
   },
@@ -567,7 +567,7 @@
     "country": "France",
     "city": "Paris",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": "2026-10-16T04:02:30.175558",
     "attempt_count": 1
   },
@@ -578,7 +578,7 @@
     "country": "France",
     "city": "Paris",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": "2026-10-16T04:02:52.545637",
     "attempt_count": 1
   },
@@ -589,7 +589,7 @@
     "country": "France",
     "city": "Paris",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": "2026-10-16T04:03:29.640182",
     "attempt_count": 1
   },
@@ -600,7 +600,7 @@
     "country": "France",
     "city": "Paris",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": "2026-10-16T09:35:56.746461",
     "attempt_count": 1
   },
@@ -666,7 +666,7 @@
     "country": "Switzerland",
     "city": "Gstaad",
     "stars": 5,
-    "status": "sent",
+    "status": "pending",
     "last_sent": "2026-10-16T14:41:32.588651",
     "attempt_count": 1
   },
@@ -677,7 +677,7 @@
     "country": "Switzerland",
     "city": "Gstaad",
     "stars": 5,
-    "status": "sent",
+    "status": "pending",
     "last_sent": "2026-10-16T14:42:09.873527",
     "attempt_count": 1
   },
@@ -688,7 +688,7 @@
     "country": "Switzerland",
     "city": "Villars",
     "stars": 5,
-    "status": "sent",
+    "status": "pending",
     "last_sent": "2026-10-16T14:42:40.813064",
     "attempt_count": 1
   },
@@ -710,7 +710,7 @@
     "country": "Austria",
     "city": "Kitzbuhel",
     "stars": 5,
-    "status": "sent",
+    "status": "pending",
     "last_sent": "2026-10-16T14:43:06.669697",
     "attempt_count": 1
   },
