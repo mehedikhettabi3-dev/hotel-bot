@@ -354,3 +354,7 @@
 {"timestamp": "2026-10-30T22:54:29.648109", "hotel": "Grand Hotel Kronenhof Pontresina", "email": "careers@kronenhof.com", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-30T22:54:56.197136", "hotel": "Suvretta House St. Moritz", "email": "jobs@suvrettahouse.ch", "status": "error", "error": "Connection unexpectedly closed"}
 {"timestamp": "2026-10-30T22:55:24.793673", "hotel": "Palace Hotel Gstaad", "email": "hr@palace.ch", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-31T02:10:44.715746", "hotel": "Grand Hotel Bellevue Gstaad", "email": "careers@bellevue-gstaad.ch", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-31T02:11:05.982309", "hotel": "Chalet RoyAlp Hotel Villars", "email": "hr@royalp.ch", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-31T02:11:37.372002", "hotel": "Hotel Kitzhof Kitzbuhel", "email": "hr@kitzhof.com", "status": "error", "error": "Connection unexpectedly closed"}
+{"timestamp": "2026-10-31T02:12:12.793770", "hotel": "Caesars Palace Bluewaters Dubai", "email": "careers@caesarspalace.ae", "status": "skipped_no_mx", "error": "DNS/MX check failed"}

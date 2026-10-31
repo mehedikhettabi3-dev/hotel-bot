@@ -677,7 +677,7 @@
     "country": "Switzerland",
     "city": "Gstaad",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": "2026-10-16T14:42:09.873527",
     "attempt_count": 1
   },
@@ -688,7 +688,7 @@
     "country": "Switzerland",
     "city": "Villars",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": "2026-10-16T14:42:40.813064",
     "attempt_count": 1
   },
@@ -710,7 +710,7 @@
     "country": "Austria",
     "city": "Kitzbuhel",
     "stars": 5,
-    "status": "pending",
+    "status": "error",
     "last_sent": "2026-10-16T14:43:06.669697",
     "attempt_count": 1
   },
