@@ -422,3 +422,4 @@
 {"timestamp": "2026-11-17T03:34:44.060612", "hotel": "Caesars Palace Bluewaters Dubai", "email": "careers@caesarspalace.ae", "status": "skipped_no_mx", "error": "DNS/MX check failed"}
 {"timestamp": "2026-11-17T12:57:28.499516", "hotel": "Caesars Palace Bluewaters Dubai", "email": "careers@caesarspalace.ae", "status": "skipped_no_mx", "error": "DNS/MX check failed"}
 {"timestamp": "2026-11-17T21:40:14.577476", "hotel": "Caesars Palace Bluewaters Dubai", "email": "careers@caesarspalace.ae", "status": "skipped_no_mx", "error": "DNS/MX check failed"}
+{"timestamp": "2026-11-18T03:29:52.410274", "hotel": "Caesars Palace Bluewaters Dubai", "email": "careers@caesarspalace.ae", "status": "skipped_no_mx", "error": "DNS/MX check failed"}
