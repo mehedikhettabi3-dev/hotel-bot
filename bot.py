@@ -25,6 +25,7 @@ from hotel_hunter_feeder import inject_new_hotels
 
 import dns.exception
 import dns.resolver
+import requests
 
 # ── Paths ──────────────────────────────────────────────────────────────────────
 BASE_DIR        = os.path.dirname(os.path.abspath(__file__))
@@ -107,8 +108,49 @@ class DeliveryUncertain(Exception):
     """SMTP connection dropped while submitting; retrying may duplicate mail."""
 
 
+class GmailAPIError(Exception):
+    """Configuration or an explicit API rejection; nothing was submitted."""
+
+
+def gmail_api_token():
+    fields = {key: os.environ.get(f"GMAIL_OAUTH_{key.upper()}", "").strip()
+              for key in ("client_id", "client_secret", "refresh_token")}
+    if not all(fields.values()):
+        raise GmailAPIError("Configure GMAIL_OAUTH_CLIENT_ID, GMAIL_OAUTH_CLIENT_SECRET and GMAIL_OAUTH_REFRESH_TOKEN.")
+    try:
+        response = requests.post("https://oauth2.googleapis.com/token",
+                                 data={**fields, "grant_type": "refresh_token"}, timeout=20,
+                                 allow_redirects=False)
+        if response.status_code != 200:
+            raise GmailAPIError(f"Google OAuth token exchange failed (HTTP {response.status_code}).")
+        token = response.json().get("access_token")
+    except (requests.RequestException, ValueError) as exc:
+        raise GmailAPIError("Google OAuth token exchange could not be completed.") from exc
+    if not token:
+        raise GmailAPIError("Google OAuth response did not contain an access token.")
+    return token
+
+
+def send_via_gmail_api(message, token):
+    try:
+        response = requests.post(
+            "https://gmail.googleapis.com/gmail/v1/users/me/messages/send",
+            headers={"Authorization": f"Bearer {token}"},
+            json={"raw": base64.urlsafe_b64encode(message.as_bytes()).decode("ascii")},
+            timeout=30,
+            allow_redirects=False,
+        )
+    except requests.RequestException as exc:
+        raise DeliveryUncertain from exc
+    if response.status_code >= 500 or response.status_code == 408:
+        raise DeliveryUncertain
+    if response.status_code != 200:
+        raise GmailAPIError(f"Gmail API rejected the send (HTTP {response.status_code}).")
+
+
 def send_email(sender: str, password: str,
-               recipient: str, subject: str, body: str, cv: bytes | None = None) -> None:
+               recipient: str, subject: str, body: str, cv: bytes | None = None,
+               api_token: str | None = None) -> None:
     msg = MIMEMultipart()
     msg["From"]    = sender
     msg["To"]      = recipient
@@ -119,6 +161,9 @@ def send_email(sender: str, password: str,
         attachment.add_header("Content-Disposition", "attachment", filename="CV.pdf")
         msg.attach(attachment)
 
+    if api_token:
+        send_via_gmail_api(msg, api_token)
+        return
     server = connect_gmail(sender, password)
     try:
         server.sendmail(sender, recipient, msg.as_string())
@@ -136,7 +181,7 @@ def send_email(sender: str, password: str,
 
 # ── Main ───────────────────────────────────────────────────────────────────────
 
-def main(dry_run: bool = False, check_smtp: bool = False):
+def main(dry_run: bool = False, check_smtp: bool = False, check_api: bool = False):
     # Load config
     config = load_json(CONFIG_FILE)
 
@@ -150,7 +195,8 @@ def main(dry_run: bool = False, check_smtp: bool = False):
     if not sender_email:
         print("[BOT] ERROR: sender_email not set in config.json or GMAIL_ADDRESS env var.")
         sys.exit(1)
-    if not sender_pass and not dry_run:
+    use_api = check_api or (not check_smtp and os.environ.get("HOTEL_MAIL_TRANSPORT") == "gmail-api")
+    if not sender_pass and not dry_run and not use_api:
         print("[BOT] ERROR: GMAIL_APP_PASSWORD env var is not set.")
         sys.exit(1)
 
@@ -164,6 +210,14 @@ def main(dry_run: bool = False, check_smtp: bool = False):
         with suppress(OSError):
             server.close()
         print("[BOT] Gmail SMTP authentication succeeded. No email sent.")
+        return
+
+    if check_api:
+        try:
+            gmail_api_token()
+        except GmailAPIError as exc:
+            sys.exit(f"[BOT] {exc} No email sent.")
+        print("[BOT] Gmail OAuth token refreshed successfully. No email sent.")
         return
 
     # Load data
@@ -208,6 +262,7 @@ def main(dry_run: bool = False, check_smtp: bool = False):
         return
 
     cv = None
+    api_token = None
     if not dry_run:
         try:
             cv = base64.b64decode(os.environ.get("HOTEL_CV_PDF_BASE64", "").strip(), validate=True)
@@ -215,6 +270,11 @@ def main(dry_run: bool = False, check_smtp: bool = False):
             sys.exit("[BOT] HOTEL_CV_PDF_BASE64 is not valid base64. No email sent.")
         if not cv.startswith(b"%PDF-"):
             sys.exit("[BOT] Set HOTEL_CV_PDF_BASE64 to your approved PDF CV. No email sent.")
+        if use_api:
+            try:
+                api_token = gmail_api_token()
+            except GmailAPIError as exc:
+                sys.exit(f"[BOT] {exc} No email sent.")
 
     print(f"[BOT] Pending hotels available: {len(queue)}")
 
@@ -259,6 +319,7 @@ def main(dry_run: bool = False, check_smtp: bool = False):
                     subject=subject,
                     body=body + "\n\nPlease find my CV attached.",
                     cv=cv,
+                    api_token=api_token,
                 )
                 print(f"[BOT] SENT ✓ → {hotel['name']} <{email_addr}>")
                 log_entry = {
@@ -314,12 +375,14 @@ def main(dry_run: bool = False, check_smtp: bool = False):
                     "hotel": hotel["name"],
                     "email": email_addr,
                     "status": "review_delivery",
-                    "error": "Connection lost during SMTP submission; check Gmail Sent before retrying."
+                    "error": "Delivery unconfirmed; check Gmail Sent before retrying."
                 })
                 sys.exit("[BOT] Delivery uncertain; check Gmail Sent before retrying this lead.")
 
             except (smtplib.SMTPException, OSError) as e:
                 sys.exit(f"[BOT] SMTP failure ({type(e).__name__}); lead remains pending.")
+            except GmailAPIError as exc:
+                sys.exit(f"[BOT] {exc} Lead remains pending.")
 
             append_log(log_entry)
 
@@ -343,5 +406,7 @@ if __name__ == "__main__":
                         help="Simulate sending without actually sending emails")
     mode.add_argument("--check-smtp", action="store_true",
                       help="Check Gmail connectivity and login without sending email")
+    mode.add_argument("--check-api", action="store_true",
+                      help="Refresh the Google OAuth token without sending email")
     args = parser.parse_args()
-    main(dry_run=args.dry_run, check_smtp=args.check_smtp)
+    main(dry_run=args.dry_run, check_smtp=args.check_smtp, check_api=args.check_api)

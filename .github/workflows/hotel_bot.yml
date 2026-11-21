@@ -9,8 +9,9 @@ on:
       mode:
         description: 'Check Gmail without sending, preview, or send a live batch'
         type: choice
-        default: check-smtp
+        default: check-api
         options:
+          - check-api
           - check-smtp
           - dry-run
           - send
@@ -41,6 +42,15 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Check Gmail API authorization without sending
+        if: github.event_name == 'workflow_dispatch' && inputs.mode == 'check-api'
+        env:
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_OAUTH_CLIENT_ID: ${{ secrets.GMAIL_OAUTH_CLIENT_ID }}
+          GMAIL_OAUTH_CLIENT_SECRET: ${{ secrets.GMAIL_OAUTH_CLIENT_SECRET }}
+          GMAIL_OAUTH_REFRESH_TOKEN: ${{ secrets.GMAIL_OAUTH_REFRESH_TOKEN }}
+        run: python bot.py --check-api
+
       - name: Check Gmail without sending
         if: github.event_name == 'workflow_dispatch' && inputs.mode == 'check-smtp'
         env:
@@ -63,6 +73,10 @@ jobs:
           GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           HOTEL_CV_PDF_BASE64: ${{ secrets.HOTEL_CV_PDF_BASE64 }}
+          HOTEL_MAIL_TRANSPORT: gmail-api
+          GMAIL_OAUTH_CLIENT_ID: ${{ secrets.GMAIL_OAUTH_CLIENT_ID }}
+          GMAIL_OAUTH_CLIENT_SECRET: ${{ secrets.GMAIL_OAUTH_CLIENT_SECRET }}
+          GMAIL_OAUTH_REFRESH_TOKEN: ${{ secrets.GMAIL_OAUTH_REFRESH_TOKEN }}
         run: python bot.py
 
       - name: Commit updated lead data & logs

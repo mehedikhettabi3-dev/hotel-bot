@@ -50,7 +50,10 @@ In your repo → **Settings → Secrets and variables → Actions**, add:
 | Secret | Value |
 |--------|-------|
 | `GMAIL_ADDRESS` | your Gmail address |
-| `GMAIL_APP_PASSWORD` | the 16-char app password |
+| `GMAIL_APP_PASSWORD` | the 16-char app password (SMTP diagnostics/local SMTP only) |
+| `GMAIL_OAUTH_CLIENT_ID` | OAuth client ID for Gmail API |
+| `GMAIL_OAUTH_CLIENT_SECRET` | OAuth client secret |
+| `GMAIL_OAUTH_REFRESH_TOKEN` | Refresh token authorized by the sending Gmail account |
 | `HOTEL_CV_PDF_BASE64` | Base64 of your approved PDF CV. Never commit it. Use a PDF small enough for GitHub's 48 KB secret limit (raw PDF under 36 KB). |
 
 On a trusted Windows machine, upload the CV directly to the repository secret without displaying the encoded file:
@@ -60,7 +63,9 @@ On a trusted Windows machine, upload the CV directly to the repository secret wi
 ```
 
 ### 4. Enable the workflow
-The bot requests an hourly schedule, but GitHub can delay or skip scheduled runs. In **Actions → Hotel Outreach Bot → Run workflow**, choose `check-smtp` (the default) to verify Gmail login without sending, or `dry-run` to preview pending applications. `send` starts a live batch on `main`.
+The bot requests an hourly schedule, but GitHub can delay or skip scheduled runs. Hosted sends use Gmail API because the hosted runner could not establish an SMTP connection. In Google Cloud, enable the Gmail API and authorize the sending account with offline access and the minimal `https://www.googleapis.com/auth/gmail.send` scope. OAuth apps left in External/Testing may issue refresh tokens that expire after seven days.
+
+In **Actions → Hotel Outreach Bot → Run workflow**, choose `check-api` (the default) to test the OAuth refresh without sending, or `dry-run` to preview pending applications. `check-smtp` is available for diagnostics; `send` starts a live batch on `main`.
 
 ## Running Locally (optional)
 

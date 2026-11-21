@@ -63,6 +63,24 @@ class BotTests(unittest.TestCase):
         self.assertEqual(bot.inject_new_hotels(hotels, []), 0)
         self.assertTrue(all(lead["source_url"].startswith("https://") for lead in hotels))
 
+    def test_api_auth_check_only_refreshes_token(self):
+        with patch.object(bot, "gmail_api_token", return_value="mock") as refresh, \
+             patch.object(bot, "send_email") as send:
+            bot.main(check_api=True)
+        refresh.assert_called_once()
+        send.assert_not_called()
+
+    def test_api_sends_without_smtp_and_checks_response(self):
+        with patch.object(bot.requests, "post", return_value=Mock(status_code=200)) as post, \
+             patch.object(bot, "connect_gmail") as smtp:
+            bot.send_email("sender@example.org", "", "jobs@example.org", "Test", "Body", api_token="mock")
+            post.return_value.status_code = 408
+            with self.assertRaises(bot.DeliveryUncertain):
+                bot.send_email("sender@example.org", "", "jobs@example.org", "Test", "Body", api_token="mock")
+        self.assertEqual(post.call_args.args[0], "https://gmail.googleapis.com/gmail/v1/users/me/messages/send")
+        self.assertIn("raw", post.call_args.kwargs["json"])
+        smtp.assert_not_called()
+
 
 if __name__ == "__main__":
     unittest.main()
