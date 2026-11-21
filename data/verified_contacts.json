@@ -1,0 +1,6 @@
+[
+  {"name": "Rove Hotels", "email": "talent@rovehotels.com", "country": "UAE", "city": "Dubai", "position": "Kitchen Steward", "source_url": "https://www.rovehotels.com/en/careers/"},
+  {"name": "Ishraq Hospitality", "email": "careers@ishraqhospitality.com", "country": "UAE", "city": "Dubai", "position": "Kitchen Steward", "source_url": "https://ishraqhospitality.com/en/career"},
+  {"name": "Safir Hotels & Resorts", "email": "jobs@safirhotels.com", "country": "Kuwait", "city": "Kuwait City", "position": "Kitchen Steward", "source_url": "https://www.safirhotels.com/en/careers"},
+  {"name": "Roda Hotels & Resorts", "email": "careers@roda-hotels.com", "country": "UAE", "city": "Dubai", "position": "Waiter", "subject_template": "{name} – {position}", "source_url": "https://www.roda-hotels.com/careers"}
+]

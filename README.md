@@ -4,7 +4,7 @@ A production-ready, cloud-native bot that sends job application emails to luxury
 
 ## Features
 
-- **Never stops** — auto-recycles old leads (14+ days, no reply) and refills the queue automatically
+- **Verified contacts only** — imports official recruiting addresses once; no automatic resends
 - **Safe sending** — 6 emails/hour, random 20–35s intervals, ~144/day limit to protect Gmail reputation
 - **Bounce protection** — DNS/MX check before sending + automatic blacklist for bounced addresses
 - **Personalized emails** — hotel name and random job position inserted per email
@@ -51,33 +51,41 @@ In your repo → **Settings → Secrets and variables → Actions**, add:
 |--------|-------|
 | `GMAIL_ADDRESS` | your Gmail address |
 | `GMAIL_APP_PASSWORD` | the 16-char app password |
+| `HOTEL_CV_PDF_BASE64` | Base64 of your approved PDF CV. Never commit it. Use a PDF small enough for GitHub's 48 KB secret limit (raw PDF under 36 KB). |
+
+On a trusted Windows machine, upload the CV directly to the repository secret without displaying the encoded file:
+
+```powershell
+[Convert]::ToBase64String([IO.File]::ReadAllBytes('C:\path\to\approved-CV.pdf')) | gh secret set HOTEL_CV_PDF_BASE64 --repo mehedikhettabi3-dev/hotel-bot
+```
 
 ### 4. Enable the workflow
-The bot runs automatically every hour once your repo is pushed. You can also trigger it manually: **Actions → Hotel Outreach Bot → Run workflow**.
+The bot requests an hourly schedule, but GitHub can delay or skip scheduled runs. In **Actions → Hotel Outreach Bot → Run workflow**, choose `check-smtp` (the default) to verify Gmail login without sending, or `dry-run` to preview pending applications. `send` starts a live batch on `main`.
 
 ## Running Locally (optional)
 
 ```bash
+python -m pip install -r requirements.txt
+
 # Preview what would be sent (no emails actually sent)
 python bot.py --dry-run
 
 # Refill the lead queue
 python hotel_hunter_feeder.py
 
-# Send for real (requires the env vars set)
+# Send for real (requires Gmail credentials and HOTEL_CV_PDF_BASE64)
 export GMAIL_ADDRESS="you@gmail.com"          # PowerShell: $env:GMAIL_ADDRESS="..."
 export GMAIL_APP_PASSWORD="abcd efgh ijkl mnop"
+python bot.py --check-smtp                     # Connect and authenticate only
 python bot.py
 ```
 
 ## Adding Hotels
 
-Edit `data/hotels.json` and add entries in this format:
+Add an officially published email address to `data/verified_contacts.json` and record the hotel's careers page. The feeder imports only new addresses and preserves existing history.
 ```json
-{"id": 201, "name": "Hotel Name", "email": "hr@hotel.com", "country": "Country", "city": "City", "stars": 5, "status": "pending", "last_sent": null, "attempt_count": 0}
+{"name": "Hotel Name", "email": "hr@example.com", "country": "Country", "city": "City", "position": "Kitchen Steward", "source_url": "https://example.com/careers"}
 ```
-
-Or add them to the `EXTRA_HOTELS` list in `hotel_hunter_feeder.py` — they'll be injected automatically when the queue runs low.
 
 ## Safety Notes
 
@@ -85,3 +93,4 @@ Or add them to the `EXTRA_HOTELS` list in `hotel_hunter_feeder.py` — they'll b
 - Sending too fast triggers a 24h account suspension. The random delays prevent this.
 - Bounced addresses are blacklisted automatically and never retried.
 - If you get an `AUTH ERROR`, your App Password is wrong or 2-Step Verification isn't enabled.
+- For old `error` / `failed_mx` leads, verify the hotel's recruiting address and check Gmail Sent before moving any lead back to `pending`. After a `review_delivery` result, check Gmail Sent before retrying, since the server may have accepted the message.
