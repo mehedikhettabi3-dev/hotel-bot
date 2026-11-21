@@ -2858,5 +2858,54 @@
     "status": "pending",
     "last_sent": null,
     "attempt_count": 0
+  },
+  {
+    "name": "Rove Hotels",
+    "email": "talent@rovehotels.com",
+    "country": "UAE",
+    "city": "Dubai",
+    "position": "Kitchen Steward",
+    "source_url": "https://www.rovehotels.com/en/careers/",
+    "id": 261,
+    "status": "pending",
+    "last_sent": null,
+    "attempt_count": 0
+  },
+  {
+    "name": "Ishraq Hospitality",
+    "email": "careers@ishraqhospitality.com",
+    "country": "UAE",
+    "city": "Dubai",
+    "position": "Kitchen Steward",
+    "source_url": "https://ishraqhospitality.com/en/career",
+    "id": 262,
+    "status": "pending",
+    "last_sent": null,
+    "attempt_count": 0
+  },
+  {
+    "name": "Safir Hotels & Resorts",
+    "email": "jobs@safirhotels.com",
+    "country": "Kuwait",
+    "city": "Kuwait City",
+    "position": "Kitchen Steward",
+    "source_url": "https://www.safirhotels.com/en/careers",
+    "id": 263,
+    "status": "pending",
+    "last_sent": null,
+    "attempt_count": 0
+  },
+  {
+    "name": "Roda Hotels & Resorts",
+    "email": "careers@roda-hotels.com",
+    "country": "UAE",
+    "city": "Dubai",
+    "position": "Waiter",
+    "subject_template": "{name} – {position}",
+    "source_url": "https://www.roda-hotels.com/careers",
+    "id": 264,
+    "status": "pending",
+    "last_sent": null,
+    "attempt_count": 0
   }
 ]
